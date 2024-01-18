@@ -11,16 +11,16 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Why choosing Calabrese?"
+    image: "/images/bernd-gruber-paragraph-1.jpg"
+    content: "Enjoy the experience of a premium, worry-free installation. Calabrese offers:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Diverse Products**: From windows to doors, roller shutters, canopies—*we've got it all*"
+      - "**Experts' installation**: Our family's second-gen business ensures a perfect fit"
+      - "**Personalized Care**: Close customer relationships for tailored solutions and understanding"
+      - "**Top-Tier Quality**: Uncompromising commitment to excellence, meeting and surpassing industry standards"
+      - "**Legacy of Excellence**: Built on years of experience, our tradition is ensuring customer satisfaction"
+      - "**Flexible Solutions**: Aesthetic appeal, energy efficiency, security—tailored solutions to match your needs"
     button:
       enable: false
       label: "Get Started Now"
