@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Ein Familienunternehmen"
-  content: "Mit unseren Fenster Ihren Geschmack treffen. Das ist eine unserer Stärken. Das Familienunternehmen wird inzwischen in der zweiten Generation geführt und hat sich auf die Montage und die Ausmessung beliebiger Produkte spezialisiert. Den Schlüssel zum Erfolg sehen wir im hohen Qualitätsbewusstsein und der persönlichen Nähe zu unseren Kunden."
+  title: "A family business"
+  content: "Crafting solutions that align seamlessly with your preferences is at the core of our expertise. As a second-generation family business, we excel in installing and measuring a diverse range of products, including windows, doors, roller shutters, canopies, and awnings. Our commitment to exceptional quality and close, personalized connections with our customers remains the cornerstone of our success."
   image: "/images/banner.png"
   button:
     enable: false
