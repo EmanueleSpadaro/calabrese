@@ -80,6 +80,33 @@
   {{ end }}
   <!-- /Features -->
 
+  <!-- MainPartnerVideo -->
+  {{ with site.GetPage "sections/main-partner" }}
+    {{ if .Params.enable }}
+      <section class="section">
+        <div class="container">
+          <div class="row">
+            <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+              <h2 class="mb-4">
+                {{ .Title | markdownify }}
+              </h2>
+              <p>
+                {{ .Params.description | markdownify }}
+              </p>
+            </div>
+            <div class="col-12">
+              <video class="max-w-[600px] mx-auto" src="{{.Params.video}}" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg">
+                Your browser does not support the video tag.
+              </video>
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /MainPartnerVideo-->
+
+
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
