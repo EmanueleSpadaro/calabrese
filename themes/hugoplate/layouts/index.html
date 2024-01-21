@@ -1,11 +1,16 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
+  {{ $cssImage := resources.Get .image }}
+    <section class="section pt-14" style="background-image: url('{{ $cssImage.RelPermalink }}');
+                                          background-repeat: no-repeat;
+                                          background-origin: border-box;
+                                          background-position: center;
+                                          background-size: cover;">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center">
-            <h1 class="mb-4">
+          <div class="lg:col-7 mb-8 text-center bg-body dark:bg-darkmode-body rounded-lg">
+            <h1 class="mb-4 mt-4">
               {{ .title | markdownify }}
             </h1>
             <p class="mb-8">
@@ -19,9 +24,6 @@
                 </a>
               {{ end }}
             {{ end }}
-          </div>
-          <div class="col-12">
-            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
           </div>
         </div>
       </div>
