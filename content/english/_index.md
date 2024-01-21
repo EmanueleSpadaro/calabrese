@@ -26,17 +26,19 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  # - title: "Discover the Key Features Of Hugo"
-  #   image: "/images/service-2.png"
-  #   content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-  #   bulletpoints:
-  #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-  #     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-  #     - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-  #   button:
-  #     enable: true
-  #     label: "Get Started Now"
-  #     link: "https://github.com/zeon-studio/hugoplate"
+  - title: "Discover the Key Partners Of Calabrese"
+    image: "/images/partners/partners.png"
+    content: "Calabrese is proud to be associated with some of the most reputable names in the industry. Our key partners play a crucial role in our commitment to delivering top-notch quality and service. They are:"
+    bulletpoints:
+      - "**Sohns-Rolladentechnik**: A renowned name that stands for quality and innovation."
+      - "**DeWalt**: A global powerhouse known for its robust and reliable products."
+      - "**Reflexa**: Specialists in sun protection systems, contributing to our diverse offerings."
+      - "**Inotherm**: A leading provider of high-quality doors, enhancing the aesthetic and functional appeal of our projects."
+    neutralBackground: true
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "https://github.com/zeon-studio/hugoplate"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"

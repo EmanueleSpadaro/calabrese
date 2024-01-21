@@ -39,7 +39,12 @@
           <div
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
-            {{ end }} md:col-5 mb-6">
+            {{ end }} md:col-5 mb-6 rounded-lg"
+            {{ with .neutralBackground }}
+              {{ if . }}
+                style="background-color: #555555;"
+              {{ end }}
+            {{ end }}>
             {{ partial "image" (dict "Src" .image "Alt" "feature image") }}
           </div>
           <div
