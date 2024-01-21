@@ -1,15 +1,15 @@
 ############# English navigation ##############
 
 # main menu
-# [[main]]
-# name = "Home"
-# url = "/"
-# weight = 1
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
 
-# [[main]]
-# name = "About"
-# url = "about/"
-# weight = 2
+[[main]]
+name = "Door Configurator"
+url = "https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556"
+weight = 2
 
 # [[main]]
 # name = "Elements"
