@@ -16,10 +16,31 @@ weight = 2
 # url = "elements/"
 # weight = 3
 
-# [[main]]
-# weight = 4
-# name = "Pages"
-# hasChildren = true
+[[main]]
+weight = 4
+name = "VEKA Profiles"
+hasChildren = true
+
+[[main]]
+parent= "VEKA Profiles"
+name = "VEKA 82 MD"
+url= "82md/"
+
+[[main]]
+parent= "VEKA Profiles"
+name = "VEKA 82 AD"
+url= "82ad/"
+
+[[main]]
+parent= "VEKA Profiles"
+name = "VEKA 76 MD"
+url= "76md/"
+
+[[main]]
+parent= "VEKA Profiles"
+name = "VEKA 76 AD"
+url= "76ad/"
+
 
 # [[main]]
 # parent = "Pages"
