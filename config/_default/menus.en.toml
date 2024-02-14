@@ -6,40 +6,87 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-name = "Door Configurator"
-url = "https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556"
-weight = 2
-
 # [[main]]
-# name = "Elements"
-# url = "elements/"
-# weight = 3
+# name = "Door Configurator"
+# url = "https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556"
+# weight = 2
 
 [[main]]
-weight = 4
-name = "VEKA Profiles"
+name = "Products"
+url = "products/"
+weight = 2
 hasChildren = true
 
 [[main]]
-parent= "VEKA Profiles"
-name = "VEKA 82 MD"
-url= "82md/"
+parent = "Products"
+name= "Windows"
+url = "products/windows"
+weight = 1
 
 [[main]]
-parent= "VEKA Profiles"
-name = "VEKA 82 AD"
-url= "82ad/"
+parent = "Products"
+name= "Doors"
+url = "products/doors"
+weight = 2
 
 [[main]]
-parent= "VEKA Profiles"
-name = "VEKA 76 MD"
-url= "76md/"
+parent = "Products"
+name= "Shutters"
+url = "products/shutters"
+weight = 3
 
 [[main]]
-parent= "VEKA Profiles"
-name = "VEKA 76 AD"
-url= "76ad/"
+parent = "Products"
+name= "Canopies"
+url = "products/canopies"
+weight = 4
+
+[[main]]
+parent = "Products"
+name= "Awnings"
+url = "products/awnings"
+weight = 5
+
+[[main]]
+parent = "Products"
+name= "Mosquito Nets"
+url = "products/mosquito-nets"
+weight = 6
+
+[[main]]
+weight= 3
+name= "Jobs Gallery"
+url = "gallery"
+
+# [[main]]
+# weight = 4
+# name = "VEKA Profiles"
+# hasChildren = true
+
+# [[main]]
+# parent= "VEKA Profiles"
+# name = "VEKA 82 MD"
+# url= "82md/"
+
+# [[main]]
+# parent= "VEKA Profiles"
+# name = "VEKA 82 AD"
+# url= "82ad/"
+
+# [[main]]
+# parent= "VEKA Profiles"
+# name = "VEKA 76 MD"
+# url= "76md/"
+
+# [[main]]
+# parent= "VEKA Profiles"
+# name = "VEKA 76 AD"
+# url= "76ad/"
+
+# [[main]]
+# weight=5
+# name= "Mosquito Nets"
+
 
 
 # [[main]]

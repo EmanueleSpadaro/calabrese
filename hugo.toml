@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "/"
+baseURL = "https://4bf4-82-112-215-203.ngrok-free.app/"
 # Title of your website (required).
 title = "Hugoplate"
 # Your theme name
