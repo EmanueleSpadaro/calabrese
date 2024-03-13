@@ -20,7 +20,7 @@ hasChildren = true
 [[main]]
 parent = "Products"
 name= "Windows"
-url = "products/windows"
+url = "windows/"
 weight = 1
 
 [[main]]
