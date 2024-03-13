@@ -50,7 +50,7 @@ weight = 5
 [[main]]
 parent = "Products"
 name= "Mosquito Nets"
-url = "products/mosquito-nets"
+url = "/mosquito-nets"
 weight = 6
 
 [[main]]
