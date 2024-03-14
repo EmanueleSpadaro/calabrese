@@ -32,7 +32,7 @@ weight = 2
 [[main]]
 parent = "Products"
 name= "Shutters"
-url = "products/shutters"
+url = "shutters/"
 weight = 3
 
 [[main]]
