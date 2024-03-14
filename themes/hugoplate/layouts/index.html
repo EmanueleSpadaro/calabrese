@@ -95,9 +95,12 @@
               </p>
             </div>
             <div class="col-12">
-              <video class="max-w-[600px] mx-auto" src="{{.Params.video}}" width="100%" height="auto" muted controls class="rounded-lg">
+              <div class="max-w-[600px] mx-auto">
+                <iframe width="600px" height="400px" src="{{.Params.video}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div>
+              <!-- <video class="max-w-[600px] mx-auto" src="{{.Params.video}}" width="100%" height="auto" muted controls class="rounded-lg">
                 Your browser does not support the video tag.
-              </video>
+              </video> -->
             </div>
           </div>
         </div>
