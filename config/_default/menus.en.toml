@@ -56,7 +56,7 @@ weight = 6
 [[main]]
 weight= 3
 name= "Jobs Gallery"
-url = "gallery"
+url = "jobs-gallery/"
 
 # [[main]]
 # weight = 4
