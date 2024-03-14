@@ -38,13 +38,13 @@ weight = 3
 [[main]]
 parent = "Products"
 name= "Canopies"
-url = "products/canopies"
+url = "canopies/"
 weight = 4
 
 [[main]]
 parent = "Products"
 name= "Awnings"
-url = "products/awnings"
+url = "awnings/"
 weight = 5
 
 [[main]]
