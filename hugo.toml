@@ -1,12 +1,12 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://4bf4-82-112-215-203.ngrok-free.app/"
+baseURL = "https://emanuelespadaro.com/"
 # Title of your website (required).
-title = "Hugoplate"
+title = "Calabrese"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Europe/Berlin"
 # post pagination
 paginate = 2 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -74,7 +74,7 @@ home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
 [imaging]
 # See https://github.com/disintegration/imaging
 # Default JPEG or WebP quality setting. Default is 75.
-quality = 90
+quality = 75
 resampleFilter = "Lanczos"
 
 ############################ Caches ##############################
