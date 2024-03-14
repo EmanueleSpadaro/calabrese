@@ -7,7 +7,7 @@ draft: false
 
 Your front door is more than just an entrance—it’s a statement. At Calabrese, we specialize in installing exquisite entry doors crafted by Inotherm, seamlessly blending style, security, and energy efficiency. Whether you’re upgrading your home or enhancing its curb appeal, our award-winning entry door replacements are designed to leave a lasting impression.
 
-{{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 ### Why Choose Our German-Made Front Door Replacements?
 

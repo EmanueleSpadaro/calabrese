@@ -67,4 +67,4 @@ features:
 Die Rollladenstäbe können aus verschiedenen Materialien bestehen (Holz, Aluminium, Stahl oder Kunststoff). Die Qualität, das Design und der Einbau des Rollladens haben einen entscheidenden Einfluss auf seine Praxistauglichkeit.
 
 Aluminiumrollläden sind die modernste Lösung. Denn Aluminium ist das ideale Metall für Bauprodukte, die täglich der Witterung ausgesetzt sind und zudem leicht und dennoch sehr stabil sein müssen.
-{{< image src="/images/shutters/hero-shutter.jpg" caption="" alt="alter-text" position="center" command="fit" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="/images/shutters/hero-shutter.jpg" caption="" alt="alter-text" position="center" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}

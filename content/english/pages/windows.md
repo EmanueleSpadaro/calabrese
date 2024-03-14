@@ -12,7 +12,7 @@ Explore the perfect synergy of technology and design as we present our distingui
 
 Discover the world of possibilities with our versatile window solutions, where innovation meets functionality. Let our windows transform your space into a haven of comfort and style.
 
-{{< image src="images/window-hero-section.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/window-hero-section.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 ## Unmatched Performance, Unparalleled Elegance
 
@@ -40,7 +40,7 @@ With SOFTLINE 76 AD, two sealing levels with stop gaskets provide reliable long-
 <img src="/images/veka-fenster-profiles/softline-76-ad_hu72e7edbf679bf09c66e35a4d8b4fa250_158322_1080x975_fill_q100_lanczos_smart1.jpg"
 style="height: 360px; display: block; margin-left: auto; margin-right: auto;"/>
 <div style="display: none;">
-{{< image src="images/veka-fenster-profiles/softline-76-ad.jpg" caption="" alt="alter-text" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/veka-fenster-profiles/softline-76-ad.jpg" caption="" alt="alter-text" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>
 
 ##### Technical Details
@@ -67,7 +67,7 @@ Even large glass surfaces are no problem with the slim yet economical design of 
 <img src="/images/veka-fenster-profiles/softline-76-md_hu288467d5dd764e3a32038531230ef286_154822_1080x975_fill_q100_lanczos_smart1.jpg"
 style="height: 360px; display: block; margin-left: auto; margin-right: auto;"/>
 <div style="display: none;">
-{{< image src="images/veka-fenster-profiles/softline-76-md.jpg" caption="" alt="alter-text" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/veka-fenster-profiles/softline-76-md.jpg" caption="" alt="alter-text" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>
 
 ##### Technical Details
@@ -93,7 +93,7 @@ SOFTLINE 82 AD is equipped with a stop seal on two sealing levels - for excellen
 <img src="/images/veka-fenster-profiles/softline-82-ad_hudf89d37189ed53e1c5d4a6c37b215654_170130_1080x975_fill_q100_lanczos_smart1.jpg"
 style="height: 360px; display: block; margin-left: auto; margin-right: auto;"/>
 <div style="display: none;">
-{{< image src="images/veka-fenster-profiles/softline-82-ad.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/veka-fenster-profiles/softline-82-ad.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>
 
 ##### Technical Details
@@ -119,7 +119,7 @@ SOFTLINE 82 MD is equipped with a center seal: Three sealing levels reliably kee
 <img src="/images/veka-fenster-profiles/softline-82-md_hucd34d48359320401f9aae2fc1c535671_162176_1080x975_fill_q100_lanczos_smart1.jpg"
 style="height: 360px; display: block; margin-left: auto; margin-right: auto;"/>
 <div style="display: none;">
-{{< image src="images/veka-fenster-profiles/softline-82-md.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/veka-fenster-profiles/softline-82-md.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>
 
 ## Technical Details
