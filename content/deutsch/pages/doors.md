@@ -17,6 +17,12 @@ Ihre Haustür ist mehr als nur ein Eingang - sie ist ein Statement. Wir von Cala
 
 - **Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und schließen Wärme und Luft ein. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 1rem; justify-items: center; align-items: center;">
+    {{< image src="images/doors/grid-1.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-2.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-3.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+</div>
+
 ### Warum also Calabrese für Ihre Haustür wählen?
 
 - **Signatur deutscher Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in Deutschland in sorgfältiger Handarbeit hergestellt und bieten unübertroffene Qualität und Liebe zum Detail.
@@ -29,4 +35,11 @@ Setzen Sie sich mit uns in Verbindung, um Ihre Bedürfnisse zu besprechen, Haust
 
 <div style="display: flex; justify-content: center;">
     {{< button label="Türen-Konfigurator" link="https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556" style="solid" >}}
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); justify-items: center; align-items: center; margin-top: 1rem;">
+    {{< image src="images/doors/grid-4.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-6.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-5.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-7.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>

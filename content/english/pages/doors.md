@@ -17,6 +17,12 @@ Your front door is more than just an entrance—it’s a statement. At Calabrese
 
 - **Long-Term Savings**: Our tightly sealed, low-maintenance door frames keep drafts out and lock in heat and air. This translates to energy savings and reduced maintenance costs over time.
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 1rem; justify-items: center; align-items: center;">
+    {{< image src="images/doors/grid-1.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-2.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-3.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+</div>
+
 ### Why choosing Calabrese for Your Front Door then ?
 
 - **Signature German Craftsmanship**: All our entry doors are meticulously crafted by Inotherm in Germany, offering unmatched quality and attention to detail.
@@ -29,4 +35,11 @@ Contact us to discuss your needs, explore entry door styles, and experience the 
 
 <div style="display: flex; justify-content: center;">
     {{< button label="Door Configurator" link="https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556" style="solid" >}}
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); justify-items: center; align-items: center; margin-top: 1rem;">
+    {{< image src="images/doors/grid-4.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-6.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-5.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
+    {{< image src="images/doors/grid-7.jpg" caption="" alt="alter-text" height="255" width="382" command="fit" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>
