@@ -1,6 +1,11 @@
+[de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/deutsch"
+weight = 1
 ################ English language ##################
 [en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2

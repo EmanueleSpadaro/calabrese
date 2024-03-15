@@ -1,0 +1,64 @@
+############# Deutsch navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+# [[main]]
+# name = "Door Configurator"
+# url = "https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556"
+# weight = 2
+
+[[main]]
+name = "Produkte"
+url = "products/"
+weight = 2
+hasChildren = true
+
+[[main]]
+parent = "Produkte"
+name= "Fenster"
+url = "windows/"
+weight = 1
+
+[[main]]
+parent = "Produkte"
+name= "Türen"
+url = "doors/"
+weight = 2
+
+[[main]]
+parent = "Produkte"
+name= "Fensterläden"
+url = "shutters/"
+weight = 3
+
+[[main]]
+parent = "Produkte"
+name= "Vordächer"
+url = "canopies/"
+weight = 4
+
+[[main]]
+parent = "Produkte"
+name= "Markisen"
+url = "awnings/"
+weight = 5
+
+[[main]]
+parent = "Produkte"
+name= "Moskitonetze"
+url = "/mosquito-nets"
+weight = 6
+
+[[main]]
+weight= 3
+name= "Jobs-Galerie"
+url = "jobs-gallery/"
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

@@ -10,7 +10,8 @@ draft: false
 
 #### Privacy Policy
 
-This website does not gather, collect, retrieve, manipulate or analyze user data.
-This website saves just a little information in your browser to manage your preference regarding whether displaying the
-dark or light theme.
+Auf dieser Website werden keine Nutzerdaten erhoben, gesammelt, abgerufen, manipuliert oder ausgewertet.
+
+Diese Website speichert lediglich eine kleine Information in Ihrem Browser, um Ihre Präferenz zu verwalten, ob Sie das
+dunklen oder hellen Thema.
 
