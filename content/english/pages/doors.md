@@ -28,5 +28,5 @@ Schedule Your Free In-Home Consultation Today!
 Contact us to discuss your needs, explore entry door styles, and experience the Calabrese difference. Let’s transform your front door into a masterpiece that combines beauty, security, and efficiency.
 
 <div style="display: flex; justify-content: center;">
-    {{< button label="Contact Us" link="/contact" style="solid" >}}
+    {{< button label="Door Configurator" link="https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556" style="solid" >}}
 </div>

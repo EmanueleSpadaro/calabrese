@@ -3,30 +3,30 @@ title: "Unsere Türen"
 date: 2024-02-14T02:18:53+01:00
 draft: false
 ---
-## Welcome to Calabrese: German Craftsmanship by Inotherm for Your Front Door
+## Willkommen bei deutscher Handwerkskunst von Inotherm für Ihre Haustür
 
-Your front door is more than just an entrance—it’s a statement. At Calabrese, we specialize in installing exquisite entry doors crafted by Inotherm, seamlessly blending style, security, and energy efficiency. Whether you’re upgrading your home or enhancing its curb appeal, our award-winning entry door replacements are designed to leave a lasting impression.
+Ihre Haustür ist mehr als nur ein Eingang - sie ist ein Statement. Wir von Calabrese haben uns auf den Einbau von exquisiten Haustüren von Inotherm spezialisiert, die Stil, Sicherheit und Energieeffizienz nahtlos miteinander verbinden. Ganz gleich, ob Sie Ihr Haus modernisieren oder seine Attraktivität steigern wollen, unsere preisgekrönten Haustüren hinterlassen einen bleibenden Eindruck.
 
 {{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-### Why Choose Our German-Made Front Door Replacements?
+### Warum sollten Sie sich für unsere in Deutschland hergestellten Haustüren entscheiden?
 
-- **Curb Appeal Boost**: A beautiful, energy-efficient entry door not only welcomes guests but also adds significant value to your home. Our sleek designs complement various architectural styles, making a striking first impression.
+- **Aufwertung des Erscheinungsbildes**: Eine schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich. Unsere eleganten Designs ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck.
 
-- **Statement-Making**: Our doors operate smoothly and gracefully, reflecting your home’s unique character. From classic to contemporary, we have the perfect door to suit your taste.
+- **Schauspielerisch**: Unsere Türen funktionieren reibungslos und anmutig und spiegeln den einzigartigen Charakter Ihres Hauses wider. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.
 
-- **Long-Term Savings**: Our tightly sealed, low-maintenance door frames keep drafts out and lock in heat and air. This translates to energy savings and reduced maintenance costs over time.
+- **Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und schließen Wärme und Luft ein. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.
 
-### Why choosing Calabrese for Your Front Door then ?
+### Warum also Calabrese für Ihre Haustür wählen?
 
-- **Signature German Craftsmanship**: All our entry doors are meticulously crafted by Inotherm in Germany, offering unmatched quality and attention to detail.
-- **Custom-Built Excellence**: Each door is tailored to your specifications, ensuring a perfect fit and lasting performance.
-- **Proven Performance**: With thousands of satisfied customers, we stand by our track record of excellence.
+- **Signatur deutscher Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in Deutschland in sorgfältiger Handarbeit hergestellt und bieten unübertroffene Qualität und Liebe zum Detail.
+- **Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben gefertigt, um eine perfekte Passform und dauerhafte Leistung zu gewährleisten.
+- **Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.
 
-Schedule Your Free In-Home Consultation Today!
+Vereinbaren Sie noch heute einen kostenlosen Beratungstermin bei Ihnen zu Hause!
 
-Contact us to discuss your needs, explore entry door styles, and experience the Calabrese difference. Let’s transform your front door into a masterpiece that combines beauty, security, and efficiency.
+Setzen Sie sich mit uns in Verbindung, um Ihre Bedürfnisse zu besprechen, Haustürmodelle zu entdecken und den Calabrese-Unterschied zu erleben. Lassen Sie uns Ihre Haustür in ein Meisterwerk verwandeln, das Schönheit, Sicherheit und Effizienz vereint.
 
 <div style="display: flex; justify-content: center;">
-    {{< button label="Contact Us" link="/contact" style="solid" >}}
+    {{< button label="Türen-Konfigurator" link="https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556" style="solid" >}}
 </div>
