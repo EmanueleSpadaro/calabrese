@@ -9,7 +9,12 @@
                                           background-size: cover;">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 mb-8 text-center bg-body dark:bg-darkmode-body rounded-lg">
+          <div class="lg:col-7 mb-8 text-center bg-body dark:bg-darkmode-body rounded-lg" style="position: relative;">
+            <div style="position: absolute; width: 75px; height: 75px; bottom: 0; right: 0;  transform: translate(50%, 50%);">
+              {{ with resources.Get "images/german-medal.webp" }}
+                <img src="{{ .RelPermalink }}" alt="">
+              {{ end }}
+            </div>
             <h1 class="mb-4 mt-4">
               {{ .title | markdownify }}
             </h1>
