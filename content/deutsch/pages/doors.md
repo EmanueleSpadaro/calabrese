@@ -28,7 +28,7 @@ Ihre Haustür ist mehr als nur ein Eingang - sie ist ein Statement. Wir von Cala
 
 ### Warum also Calabrese für Ihre Haustür wählen?
 
-- **Signatur deutscher Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in Deutschland in sorgfältiger Handarbeit hergestellt und bieten unübertroffene Qualität und Liebe zum Detail.
+- **Signatur deutscher Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.
 - **Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben gefertigt, um eine perfekte Passform und dauerhafte Leistung zu gewährleisten.
 - **Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.
 
