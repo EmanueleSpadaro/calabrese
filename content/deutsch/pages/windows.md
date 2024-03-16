@@ -5,6 +5,9 @@ draft: false
 ---
 
 ## Willkommen bei unserer Premium VEKA Window Collection
+{{< notice "tip" >}}
+Veka Fenster entsprechen dem Klasse-A-Profil der DIN EN 12608. Damit entspricht jedes Fenster unter dem Namen Veka einer unabhängigen Qualitätsnorm. Darauf ist garantiert Verlass. Mit Veka Fenstern wählen Sie Bauelemente von hoher Qualität.
+{{< /notice >}}
 
 Verschönern Sie Ihren Wohn- oder Arbeitsbereich mit unseren modernen Fensterlösungen. Unsere sorgfältig gefertigten Fensterprofile wurden entwickelt, um die Energieeffizienz, die Sicherheit und die Ästhetik Ihrer Immobilie zu verbessern.
 
