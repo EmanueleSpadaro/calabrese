@@ -4,10 +4,6 @@ banner:
   title: "A family business"
   content: "Crafting solutions that align seamlessly with your preferences is at the core of our expertise. As a second-generation family business, we excel in installing and measuring a diverse range of products, including windows, doors, roller shutters, canopies, and awnings. Our commitment to exceptional quality and close, personalized connections with our customers remains the cornerstone of our success."
   image: "/images/arno-senoner-homepage-header.jpg"
-  button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
@@ -32,24 +28,7 @@ features:
     bulletpoints:
       - "**Sohns-Rolladentechnik**: A renowned name that stands for quality and innovation."
       - "**DeWalt**: A global powerhouse known for its robust and reliable products."
-      - "**Reflexa**: Specialists in sun protection systems, contributing to our diverse offerings."
+      - "**Duotherm**: Duotherm specializes in high-quality roller shutters and blinds, providing effective sun protection, privacy, and energy efficiency for residential and commercial spaces."
       - "**Inotherm**: A leading provider of high-quality doors, enhancing the aesthetic and functional appeal of our projects."
     neutralBackground: true
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-  #   image: "/images/service-3.png"
-  #   content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-  #   bulletpoints:
-  #     - "Instantly load static sites for better user experience and SEO."
-  #     - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-  #     - "Use any front-end library or framework, or build custom components, for any project size."
-  #     - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-  #   button:
-  #     enable: false
-  #     label: ""
-  #     link: ""
 ---

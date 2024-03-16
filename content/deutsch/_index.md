@@ -32,6 +32,7 @@ features:
     bulletpoints:
       - "**Sohns-Rolladentechnik**: Ein renommierter Name, der für Qualität und Innovation steht."
       - "**DeWalt**: Ein globales Kraftpaket, das für seine robusten und zuverlässigen Produkte bekannt ist."
+      - "**Duotherm**: Duotherm ist spezialisiert auf hochwertige Rollläden und Jalousien, die effektiven Sonnenschutz, Privatsphäre und Energieeffizienz für Wohn- und Geschäftsräume bieten."
       - "**Inotherm**: Ein führender Anbieter von hochwertigen Türen, die die Ästhetik und Funktionalität unserer Projekte verbessern."
     neutralBackground: true
     button:
