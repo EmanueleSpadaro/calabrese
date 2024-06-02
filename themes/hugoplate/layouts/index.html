@@ -164,22 +164,6 @@
                 <!-- Review Text -->
                 <div class="text-xs">
                   <span>{{ $testimonial.content }}</span>
-                  <!-- {{ if and $testimonial.content (gt (len $testimonial.content) 250) }}
-                  <span class="short-text" id="short-text-{{$index}}">
-                    {{ substr $testimonial.content 0 250 }}...
-                  </span>
-                  <span class="hidden" id="long-text-{{$index}}">
-                    {{ $testimonial.content }}
-                  </span>
-                  <button class="text-blue-500 hover:underline ml-auto" id="toggle-button-{{ $index }}"
-                    onclick="toggleText('{{ $index }}')">Leggi di più</button>
-                  {{ else }}
-                  <span class="short-text" id="short-text-{{$index}}">
-                    {{ $testimonial.content }}
-                  </span>
-                  {{ end }} -->
-                  <!-- <button class="text-blue-500 hover:underline ml-auto" id="toggle-button-{{ $index }}"
-                    onclick="toggleText('{{ $index }}')">Leggi di più</button> -->
                 </div>
               </div>
             </div>
