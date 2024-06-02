@@ -56,9 +56,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["Calabrese", "Construction", "Window", "Elements"]
+description = "Calabrese | Construction Window Elements"
+author = "emanuelespadaro.com"
 image = "images/og-image.png"
 
 
