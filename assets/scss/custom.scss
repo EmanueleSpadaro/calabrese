@@ -1,1 +1,11 @@
 // Add your own custom styles here
+
+.review-star {
+    background-image: url('{{ (resources.Get "images/star.svg").Permalink }}');
+    background-repeat: no-repeat;
+    // Imposta le dimensioni e altri stili necessari
+    // Esempio di impostazione delle dimensioni
+    width: 30px!important;
+    height: 30px!important;
+    display: inline-block; // Assicura che gli span siano visualizzati come blocchi
+}

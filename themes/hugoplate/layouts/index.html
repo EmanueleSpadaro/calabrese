@@ -178,4 +178,66 @@
     {{ end }}
   {{ end }}
   <!-- /Testimonials -->
+
+
+
+  <!-- New Testimonials -->
+<section class="section">
+  <div class="container">
+      <!-- Testimonial header -->
+      <div class="row">
+          <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+              <h2 class="mb-4">
+                  Recensioni<!-- {{ .Title | markdownify }} -->
+              </h2>
+              <p>
+                  Blabla, totally honest recensioni<!-- {{ .Params.description | markdownify }} -->
+              </p>
+          </div>
+      </div>
+      <!-- Review Overall Score -->
+      <div class="flex flex-col justify-center items-center">
+        <span class="text-3xl"> Ausgezeichnet</span>
+        <span class="stars-container">
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+        </span>
+        <span class="nowrap">Basierend auf <strong>53 Bewertungen</strong></span>
+        {{ $image := resources.Get "images/google.svg" }}
+        <img src="{{ $image.RelPermalink }}" width="150" height="25" alt="Google" loading="lazy"
+            decoding="async">
+      </div>
+      <!-- Actual review -->
+      <div class="flex flex-col bg-gray-200 w-64 mx-3 p-3 rounded">
+        <!-- Image, fullname, Google small logo -->
+        <div class="flex flex-row items-center">
+          <div class="flex justify-center items-center w-10 h-10 bg-purple-600 text-white text-2xl font-bold rounded-full">
+            <span class="block mx-auto select-none">T</span>
+          </div>
+          <div class="flex flex-col ml-2">
+            <div class="text-sm font-bold">Thomas Mertens</div>
+            <div class="text-sm">Customer</div>
+          </div>
+          {{ $image := resources.Get "images/google-small.svg" }}
+          <img src="{{ $image.RelPermalink }}" width="20" height="20" alt="Google" loading="lazy"
+              decoding="async" class="ml-auto self-start">
+        </div>
+        <!-- Stars -->
+        <div class="p-1 self-center">
+          <span class="review-star"></span>
+          <span class="review-star"></span>
+          <span class="review-star"></span>
+          <span class="review-star"></span>
+        </div>
+        <!-- Review Text -->
+        <div class="text-xs">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, in iste? Quos beatae omnis earum, praesentium id eum provident porro, officiis hic nam labore fuga. Labore, reiciendis repellendus praesentium provident quam aliquam quod error aut! Suscipit deleniti quisquam at quam ipsam iure. Consequuntur nemo repudiandae adipisci cum soluta tempore mollitia!
+        </div>
+        </div>
+      </div>
+  </div>
+</section>
 {{ end }}
