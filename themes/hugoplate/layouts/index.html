@@ -195,10 +195,14 @@
               </p>
           </div>
       </div>
-      <!-- OVERALL SCORE | REVIEW #1 REVIEW #2 REVIEW #3 slider -->
-      <div class="flex flex-row items-start">
-        <!-- Review Overall Score -->
-        <div class="flex flex-col justify-center items-center mr-5 space-y-1 flex-grow-0">
+    <!-- Splide stuff, ikr, not the proper place, but i'm done with this job -->
+    <script src=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js "></script>
+    <link href=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css " rel="stylesheet">
+
+
+    <div class="flex flex-row items-start">
+      <!-- Review Overall Score -->
+      <div class="flex flex-col justify-center items-center mr-5 space-y-1 flex-grow-0">
           <span class="text-3xl">Ausgezeichnet</span>
           <span class="stars-container">
               <span class="review-star"></span>
@@ -209,43 +213,63 @@
           </span>
           <span class="text-center">Basierend auf <strong>53 Bewertungen</strong></span>
           {{ $image := resources.Get "images/google.svg" }}
-          <img src="{{ $image.RelPermalink }}" width="150" height="25" alt="Google" loading="lazy"
-              decoding="async">
-        </div>
-        <!-- Actual review -->
-        <div class="flex flex-col w-64 mx-3 p-3 rounded bg-theme-light dark:bg-darkmode-theme-light shrink-0">
-          <!-- Image, fullname, Google small logo -->
-          <div class="flex flex-row items-center">
-            <div class="flex justify-center items-center w-10 h-10 bg-purple-600 text-white text-2xl font-bold rounded-full">
-              <span class="block mx-auto select-none">T</span>
-            </div>
-            <div class="flex flex-col ml-2">
-              <div class="text-sm font-bold">Thomas Mertens</div>
-              <div class="text-sm">Kunde</div>
-            </div>
-            {{ $image := resources.Get "images/google-small.svg" }}
-            <img src="{{ $image.RelPermalink }}" width="20" height="20" alt="Google" loading="lazy" decoding="async" class="ml-auto self-start">
-          </div>
-          <!-- Stars -->
-          <div class="p-1 self-center">
-            <span class="review-star"></span>
-            <span class="review-star"></span>
-            <span class="review-star"></span>
-            <span class="review-star"></span>
-          </div>
-          <!-- Review Text -->
-          <div class="text-xs">
-            <span class="block overflow-hidden short-text" id="short-text">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, in iste? Quos beatae omnis earum, praesentium id eum provident porro, officiis hic nam labore fuga. Labore, reiciendis repellendus praesentium provident quam aliquam quod error aut! Suscipit deleniti quisquam at quam ipsam iure. Consequuntur nemo repudiandae adipisci cum soluta tempore mollitia!
-            </span>
-            <!-- <span class="hidden" id="full-text">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, in iste? Quos beatae omnis earum, praesentium id eum provident porro, officiis hic nam labore fuga. Labore, reiciendis repellendus praesentium provident quam aliquam quod error aut! Suscipit deleniti quisquam at quam ipsam iure. Consequuntur nemo repudiandae adipisci cum soluta tempore mollitia!
-            </span> -->
-            <button class="text-blue-500 hover:underline ml-auto" id="toggle-button" onclick="toggleText()">Leggi di più</button>
-          </div>
-        </div>
+          <img src="{{ $image.RelPermalink }}" width="150" height="25" alt="Google" loading="lazy" decoding="async">
       </div>
-      
+      <!-- Review Slider -->
+      {{ with site.GetPage "sections/testimonial" }}
+      {{ if .Params.enable }}
+      <div class="splide">
+          <div class="splide__track">
+              <ul class="splide__list">
+                  {{ range $index, $testimonial := .Params.testimonials }}
+                  <li class="splide__slide">
+                      <!-- Actual review -->
+                      <div class="flex flex-col mx-3 p-3 rounded bg-theme-light dark:bg-darkmode-theme-light shrink-0">
+                          <!-- Image, fullname, Google small logo -->
+                          <div class="flex flex-row items-center">
+                              <div
+                                  class="flex justify-center items-center w-10 h-10 bg-purple-600 text-white text-2xl font-bold rounded-full">
+                                  <span class="block mx-auto select-none">T</span>
+                              </div>
+                              <div class="flex flex-col ml-2">
+                                  <div class="text-sm font-bold">{{ $testimonial.name }}</div>
+                                  <div class="text-sm">Kunde</div>
+                              </div>
+                              {{ $image := resources.Get "images/google-small.svg" }}
+                              <img src="{{ $image.RelPermalink }}" width="20" height="20" alt="Google" loading="lazy"
+                                  decoding="async" class="ml-auto self-start">
+                          </div>
+                          <!-- Stars -->
+                          <div class="p-1">
+                              <span class="review-star-sm"></span>
+                              <span class="review-star-sm"></span>
+                              <span class="review-star-sm"></span>
+                              <span class="review-star-sm"></span>
+                          </div>
+                          <!-- Review Text -->
+                          <div class="text-xs">
+                              <span class="block overflow-hidden short-text" id="short-text-{{$index}}">
+                                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, in iste? Quos beatae
+                                  omnis earum, praesentium id eum provident porro, officiis hic nam labore fuga. Labore,
+                                  reiciendis repellendus praesentium provident quam aliquam quod error aut! Suscipit
+                                  deleniti quisquam at quam ipsam iure. Consequuntur nemo repudiandae adipisci cum soluta
+                                  tempore mollitia!
+                              </span>
+                              <button class="text-blue-500 hover:underline ml-auto" id="toggle-button-{{ $index }}"
+                                  onclick="toggleText('{{ $index }}')">Leggi di più</button>
+                          </div>
+                      </div>
+                  </li>
+                  {{ end}}
+              </ul>
+          </div>
+      </div>
+      {{ end }}
+      {{ end }}
+  
+  </div>
+    
+
       <style>
 
         .short-text {
@@ -254,28 +278,38 @@
           -webkit-box-orient: vertical;
           overflow: hidden;
         }
+
+        .splide:not( .is-overflow ) .splide__list {
+          justify-content: center;
+        }
+
+        .splide:not(.is-overflow) .splide__arrows {
+          display: none;
+        }
       </style>
       
       <script>
-        function toggleText() {
-          const shortText = document.getElementById('short-text');
-          const fullText = document.getElementById('full-text');
-          const button = document.getElementById('toggle-button');
+        function toggleText(index) {
+          const shortText = document.getElementById('short-text-' + index);
+          const button = document.getElementById('toggle-button-' + index);
           
           if (shortText.classList.contains('short-text')) {
             shortText.classList.remove('short-text')
-            // shortText.classList.remove('hidden');
-            // shortText.classList.add('block');
-            // fullText.classList.add('hidden');
             button.textContent = 'Leggi di meno';
           } else {
             shortText.classList.add('short-text')
-            // shortText.classList.remove('block');
-            // shortText.classList.add('hidden');
-            // fullText.classList.remove('hidden');
             button.textContent = 'Leggi di più';
           }
         }
+        
+        new Splide( '.splide', {
+          perPage: 3,
+          pagination: false, //No dots
+          padding: {
+            left : '2.5rem',
+            right: '2.5rem',
+          },
+        } ).mount();
       </script>
       </div>
   </div>

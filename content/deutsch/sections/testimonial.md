@@ -20,6 +20,18 @@ testimonials:
     designation: "Kunde"
     avatar: "/images/avatar-sm.png"
     content: "Von Anfang bis Ende eine top Kommunikation. Ausgiebige Beratung, individuell und professionell. Dazu eine Umsetzung geprägt von hoher Qualität, Zuverlässigkeit und einem reibungslosen Ablauf. Wir sind rundum zufrieden."
+  
+  - name: "Gioele Spadaro"
+    designation: "Kunde"
+    avatar: "/images/avatar-sm.png"
+    content: "Von Anfang bis Ende eine top Kommunikation. Ausgiebige Beratung, individuell und professionell. Dazu eine Umsetzung geprägt von hoher Qualität, Zuverlässigkeit und einem reibungslosen Ablauf. Wir sind rundum zufrieden."
+
+  - name: "Leonardo Calabrese"
+    designation: "Kunde"
+    avatar: "/images/avatar-sm.png"
+    content: "Von Anfang bis Ende eine top Kommunikation. Ausgiebige Beratung, individuell und professionell. Dazu eine Umsetzung geprägt von hoher Qualität, Zuverlässigkeit und einem reibungslosen Ablauf. Wir sind rundum zufrieden."
+  
+  - name: "Franchino :("
 
 # don't create a separate page
 _build:

@@ -9,3 +9,13 @@
     height: 30px!important;
     display: inline-block; // Assicura che gli span siano visualizzati come blocchi
 }
+
+.review-star-sm {
+    background-image: url('{{ (resources.Get "images/star.svg").Permalink }}');
+    background-repeat: no-repeat;
+    // Imposta le dimensioni e altri stili necessari
+    // Esempio di impostazione delle dimensioni
+    width: 16px!important;
+    height: 16px!important;
+    display: inline-block; // Assicura che gli span siano visualizzati come blocchi
+}
