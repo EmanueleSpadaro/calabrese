@@ -136,13 +136,11 @@
         <div class="flex flex-col justify-center items-center  lg:mr-5 space-y-1 flex-grow-0">
           <span class="text-3xl">Ausgezeichnet</span>
           <span class="stars-container">
-            <span class="review-star"></span>
-            <span class="review-star"></span>
-            <span class="review-star"></span>
-            <span class="review-star"></span>
-            <span class="review-star"></span>
+            {{ range seq 1 .Params.review_overall }}
+              <span class="review-star"></span>
+            {{ end }}
           </span>
-          <span class="text-center">Basierend auf <strong>53 Bewertungen</strong></span>
+          <span class="text-center">Basierend auf <strong>{{.Params.review_count}} Bewertungen</strong></span>
           {{ $image := resources.Get "images/google.svg" }}
           <img src="{{ $image.RelPermalink }}" width="150" height="25" alt="Google" loading="lazy" decoding="async">
         </div>
@@ -170,10 +168,9 @@
                 </div>
                 <!-- Stars -->
                 <div class="p-1">
-                  <span class="review-star-sm"></span>
-                  <span class="review-star-sm"></span>
-                  <span class="review-star-sm"></span>
-                  <span class="review-star-sm"></span>
+                  {{ range seq 1 $testimonial.stars }}
+                    <span class="review-star-sm"></span>
+                  {{ end }}
                 </div>
                 <!-- Review Text -->
                 <div class="text-xs">
