@@ -119,101 +119,26 @@
   <div class="container">
     <div class="row">
       <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
-        <h2 class="mb-4">
-          {{ .Title | markdownify }}
-        </h2>
-        <p>
-          {{ .Params.description | markdownify }}
-        </p>
+        <div class="flex flex-col justify-center items-center  lg:mr-5 space-y-1 flex-grow-0">
+          <span class="text-3xl">Ausgezeichnet</span>
+          <span class="stars-container">
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+            <span class="review-star"></span>
+          </span>
+          <span class="text-center">Basierend auf <strong>53 Bewertungen</strong></span>
+          {{ $image := resources.Get "images/google.svg" }}
+          <img src="{{ $image.RelPermalink }}" width="150" height="25" alt="Google" loading="lazy" decoding="async">
+        </div>
       </div>
       <div class="col-12">
         <div class="swiper testimonial-slider">
           <div class="swiper-wrapper">
-            {{ range .Params.testimonials }}
-            <div class="swiper-slide">
-              <div class="bg-theme-light dark:bg-darkmode-theme-light rounded-lg px-7 py-10">
-                <div class="text-dark dark:text-white">
-                  <svg width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path
-                      d="M1.28375 19.41L0.79375 18.64C1.21375 17.0067 1.75042 15.07 2.40375 12.83C3.05708 10.5433 3.75708 8.28 4.50375 6.04C5.29708 3.75333 6.06708 1.77 6.81375 0.0899959H15.3538C14.9338 2.09666 14.4904 4.26667 14.0238 6.6C13.5571 8.88666 13.1371 11.15 12.7638 13.39C12.4371 15.5833 12.1571 17.59 11.9238 19.41H1.28375ZM31.69 0.0899959L32.18 0.859998C31.76 2.54 31.2233 4.5 30.57 6.74C29.9167 8.98 29.2167 11.2433 28.47 13.53C27.7233 15.77 26.9533 17.73 26.16 19.41H17.69C18.0167 17.9167 18.3433 16.33 18.67 14.65C18.9967 12.9233 19.3 11.22 19.58 9.54C19.9067 7.81333 20.1867 6.15667 20.42 4.57C20.7 2.93666 20.91 1.44333 21.05 0.0899959H31.69Z"
-                      fill="currentColor" />
-                  </svg>
-                </div>
-                <blockquote class="mt-8">
-                  {{ .content | markdownify }}
-                </blockquote>
-                <div class="mt-11 flex items-center">
-                  <div class="text-dark dark:text-white">
-                    {{ partial "image" (dict "Src" .avatar "Size" "50x50" "Class" "rounded-full" "Alt" .name) }}
-                  </div>
-                  <div class="ml-4">
-                    <h3 class="h5 font-primary font-semibold">
-                      {{ .name }}
-                    </h3>
-                    <p class="text-dark dark:text-white">
-                      {{ .designation | markdownify }}
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-          <div class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- /Testimonials -->
-
-
-
-<!-- New Testimonials -->
-<section class="section">
-  <div class="container">
-    <!-- Testimonial header -->
-    <div class="row">
-      <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
-        <h2 class="mb-4">
-          Recensioni<!-- {{ .Title | markdownify }} -->
-        </h2>
-        <p>
-          Blabla, totally honest recensioni<!-- {{ .Params.description | markdownify }} -->
-        </p>
-      </div>
-    </div>
-    <!-- Splide stuff, ikr, not the proper place, but i'm done with this job -->
-    <script src=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js "></script>
-    <link href=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css " rel="stylesheet">
-
-
-    <div class="flex flex-row items-start">
-      <!-- Review Overall Score -->
-      <div class="flex flex-col justify-center items-center mr-5 space-y-1 flex-grow-0">
-        <span class="text-3xl">Ausgezeichnet</span>
-        <span class="stars-container">
-          <span class="review-star"></span>
-          <span class="review-star"></span>
-          <span class="review-star"></span>
-          <span class="review-star"></span>
-          <span class="review-star"></span>
-        </span>
-        <span class="text-center">Basierend auf <strong>53 Bewertungen</strong></span>
-        {{ $image := resources.Get "images/google.svg" }}
-        <img src="{{ $image.RelPermalink }}" width="150" height="25" alt="Google" loading="lazy" decoding="async">
-      </div>
-      <!-- Review Slider -->
-      {{ with site.GetPage "sections/testimonial" }}
-      {{ if .Params.enable }}
-      <div class="splide">
-        <div class="splide__track">
-          <ul class="splide__list">
             {{ range $index, $testimonial := .Params.testimonials }}
-            <li class="splide__slide">
-              <!-- Actual review -->
+            <div class="swiper-slide">
+              <!-- ACTUAL REVIEW CARD -->
               <div class="flex flex-col mx-3 p-3 rounded bg-theme-light dark:bg-darkmode-theme-light shrink-0">
                 <!-- Image, fullname, Google small logo -->
                 <div class="flex flex-row items-center">
@@ -238,7 +163,8 @@
                 </div>
                 <!-- Review Text -->
                 <div class="text-xs">
-                  {{ if and $testimonial.content (gt (len $testimonial.content) 250) }}
+                  <span>{{ $testimonial.content }}</span>
+                  <!-- {{ if and $testimonial.content (gt (len $testimonial.content) 250) }}
                   <span class="short-text" id="short-text-{{$index}}">
                     {{ substr $testimonial.content 0 250 }}...
                   </span>
@@ -251,66 +177,22 @@
                   <span class="short-text" id="short-text-{{$index}}">
                     {{ $testimonial.content }}
                   </span>
-                  {{ end }}
+                  {{ end }} -->
                   <!-- <button class="text-blue-500 hover:underline ml-auto" id="toggle-button-{{ $index }}"
                     onclick="toggleText('{{ $index }}')">Leggi di più</button> -->
                 </div>
               </div>
-            </li>
-            {{ end}}
-          </ul>
+            </div>
+            {{ end }}
+          </div>
+          <div class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>
         </div>
       </div>
-      {{ end }}
-      {{ end }}
-
     </div>
-
-
-    <style>
-      .short-text {
-        display: -webkit-box;
-        -webkit-line-clamp: 5;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-      }
-
-      .splide:not(.is-overflow) .splide__list {
-        justify-content: center;
-      }
-
-      .splide:not(.is-overflow) .splide__arrows {
-        display: none;
-      }
-    </style>
-
-    <script>
-      function toggleText(index) {
-        const shortText = document.getElementById('short-text-' + index);
-        const button = document.getElementById('toggle-button-' + index);
-        const longText = document.getElementById('long-text-' + index);
-
-        if (shortText.classList.contains('hidden')){
-          shortText.classList.remove('hidden');
-          longText.classList.add('hidden');
-          button.textContent = 'Leggi di più';
-        } else {
-          shortText.classList.add('hidden');
-          longText.classList.remove('hidden');
-          button.textContent = 'Leggi di meno';
-        }
-      }
-
-      new Splide('.splide', {
-        perPage: 3,
-        pagination: false, //No dots
-        padding: {
-          left: '2.5rem',
-          right: '2.5rem',
-        },
-      }).mount();
-    </script>
-  </div>
   </div>
 </section>
+{{ end }}
+{{ end }}
+<!-- /Testimonials -->
+
 {{ end }}
