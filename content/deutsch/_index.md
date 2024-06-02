@@ -30,10 +30,11 @@ features:
     image: "/images/partners/partners.png"
     content: "Calabrese ist stolz darauf, mit einigen der renommiertesten Namen in der Branche zusammenzuarbeiten. Unsere wichtigsten Partner spielen eine entscheidende Rolle in unserem Bestreben, erstklassige Qualität und erstklassigen Service zu liefern. Sie sind:"
     bulletpoints:
-      - "**Sohns-Rolladentechnik**: Ein renommierter Name, der für Qualität und Innovation steht."
-      - "**DeWalt**: Ein globales Kraftpaket, das für seine robusten und zuverlässigen Produkte bekannt ist."
-      - "**Duotherm**: Duotherm ist spezialisiert auf hochwertige Rollläden und Jalousien, die effektiven Sonnenschutz, Privatsphäre und Energieeffizienz für Wohn- und Geschäftsräume bieten."
-      - "**Inotherm**: Ein führender Anbieter von hochwertigen Türen, die die Ästhetik und Funktionalität unserer Projekte verbessern."
+      - "[**Sohns-Rolladentechnik**](https://www.sohns-rolladentechnik.de): Ein renommierter Name, der für Qualität und Innovation steht."
+      - "[**DeWalt**](https://www.dewalt.com): Ein globales Kraftpaket, das für seine robusten und zuverlässigen Produkte bekannt ist."
+      - "[**Duotherm**](https://www.duotherm.de): Duotherm ist spezialisiert auf hochwertige Rollläden und Jalousien, die effektiven Sonnenschutz, Privatsphäre und Energieeffizienz für Wohn- und Geschäftsräume bieten."
+      - "[**Inotherm**](https://www.inotherm.de): Ein führender Anbieter von hochwertigen Türen, die die Ästhetik und Funktionalität unserer Projekte verbessern."
+
     neutralBackground: true
     button:
       enable: false
