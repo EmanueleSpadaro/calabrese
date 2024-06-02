@@ -1,5 +1,5 @@
 ---
-title: "Unsere Moskitonetze"
+title: "Unsere Fliegengitter"
 date: 2024-02-14T02:18:53+01:00
 draft: false
 ---

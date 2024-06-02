@@ -1,5 +1,5 @@
 ---
-title: "Unsere Fensterläden"
+title: "Unsere Rollladen"
 date: 2024-03-13
 draft: false
 features:

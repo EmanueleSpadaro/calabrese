@@ -31,7 +31,7 @@ weight = 2
 
 [[main]]
 parent = "Produkte"
-name= "Fensterläden"
+name= "Rollladen"
 url = "shutters/"
 weight = 3
 
@@ -49,7 +49,7 @@ weight = 5
 
 [[main]]
 parent = "Produkte"
-name= "Moskitonetze"
+name= "Fliegengitter"
 url = "/mosquito-nets"
 weight = 6
 

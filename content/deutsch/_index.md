@@ -11,9 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "Warum Calabrese wählen?"
+  - title: "Warum wählen Sie uns?"
     image: "/images/bernd-gruber-paragraph-1.jpg"
-    content: "Genießen Sie die Erfahrung einer erstklassigen, sorgenfreien Installation. Calabrese bietet:"
+    content: "Genießen Sie die Erfahrung einer erstklassigen, sorgenfreien Installation."
     bulletpoints:
       - "**Diverse Produkte**: Von Fenstern über Türen und Rollläden bis hin zu Vordächern - *wir haben alles*"
       - "**Montage durch Fachleute**: Unser Familienbetrieb in zweiter Generation garantiert eine perfekte Passform"
@@ -26,7 +26,7 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Entdecken Sie die wichtigsten Partner von Calabrese"
+  - title: "Entdecken Sie die wichtigsten Partner"
     image: "/images/partners/partners.png"
     content: "Calabrese ist stolz darauf, mit einigen der renommiertesten Namen in der Branche zusammenzuarbeiten. Unsere wichtigsten Partner spielen eine entscheidende Rolle in unserem Bestreben, erstklassige Qualität und erstklassigen Service zu liefern. Sie sind:"
     bulletpoints:
