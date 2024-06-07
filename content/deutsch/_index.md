@@ -33,7 +33,7 @@ features:
       - "[**Sohns-Rolladentechnik**](https://www.sohns-rolladentechnik.de): Ein renommierter Name, der für Qualität und Innovation steht."
       - "[**DeWalt**](https://www.dewalt.com): Ein globales Kraftpaket, das für seine robusten und zuverlässigen Produkte bekannt ist."
       - "[**Duotherm**](https://www.duotherm.de): Duotherm ist spezialisiert auf hochwertige Rollläden und Jalousien, die effektiven Sonnenschutz, Privatsphäre und Energieeffizienz für Wohn- und Geschäftsräume bieten."
-      - "[**Inotherm**](https://www.inotherm.de): Ein führender Anbieter von hochwertigen Türen, die die Ästhetik und Funktionalität unserer Projekte verbessern."
+      - "[**Inotherm**](https://www.inotherm.com): Ein führender Anbieter von hochwertigen Türen, die die Ästhetik und Funktionalität unserer Projekte verbessern."
 
     neutralBackground: true
     button:
