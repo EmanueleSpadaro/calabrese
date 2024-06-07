@@ -25,7 +25,7 @@ contact_form_action = "https://forms.un-static.com/forms/71de40cce27511d57dbae0b
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
-custom_script = ""
+custom_script = "window.onload=function(){if(window.location.hostname==='www.calabrese-cwe.de'){window.location.href='https://calabrese-cwe.de'+window.location.pathname+window.location.search;}}</"
 # copyright
 copyright = "**Calabrese** - Working hard and with ❤️ **since 2001**"
 
