@@ -110,6 +110,9 @@
         <p>
           {{ .Params.description | markdownify }}
         </p>
+        {{ with resources.Get "images/partners/schnee.png" }}
+        <img src="{{ .RelPermalink }}" alt="" class="max-w-sm mx-auto mt-4">
+        {{ end }}
       </div>
       <div class="col-12">
         <div class="responsive-youtube">
@@ -137,7 +140,7 @@
           <span class="text-3xl">Ausgezeichnet</span>
           <span class="stars-container">
             {{ range seq 1 .Params.review_overall }}
-              <span class="review-star"></span>
+            <span class="review-star"></span>
             {{ end }}
           </span>
           <span class="text-center">Basierend auf <strong>{{.Params.review_count}} Bewertungen</strong></span>
@@ -169,7 +172,7 @@
                 <!-- Stars -->
                 <div class="p-1">
                   {{ range seq 1 $testimonial.stars }}
-                    <span class="review-star-sm"></span>
+                  <span class="review-star-sm"></span>
                   {{ end }}
                 </div>
                 <!-- Review Text -->
