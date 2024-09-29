@@ -6,13 +6,13 @@ draft: false
 
 {{< image src="images/doors/inotherm-logo.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-## Willkommen bei deutscher Handwerkskunst von Inotherm für Ihre Haustür
+<!-- ## Willkommen bei deutscher Handwerkskunst von Inotherm für Ihre Haustür -->
 
 Ihre Haustür ist mehr als nur ein Eingang - sie ist ein Statement. Wir von Calabrese haben uns auf den Einbau von exquisiten Haustüren von Inotherm spezialisiert, die Stil, Sicherheit und Energieeffizienz nahtlos miteinander verbinden. Ganz gleich, ob Sie Ihr Haus modernisieren oder seine Attraktivität steigern wollen, unsere preisgekrönten Haustüren hinterlassen einen bleibenden Eindruck.
 
 {{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-### Warum sollten Sie sich für unsere in Deutschland hergestellten Haustüren entscheiden?
+<!-- ### Warum sollten Sie sich für unsere in Deutschland hergestellten Haustüren entscheiden? -->
 
 - **Aufwertung des Erscheinungsbildes**: Eine schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich. Unsere eleganten Designs ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck.
 
@@ -26,9 +26,9 @@ Ihre Haustür ist mehr als nur ein Eingang - sie ist ein Statement. Wir von Cala
     {{< image src="images/doors/grid-3.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 </div>
 
-### Warum also Calabrese für Ihre Haustür wählen?
+<!-- ### Warum also Calabrese für Ihre Haustür wählen? -->
 
-- **Signatur deutscher Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.
+- **Signatur Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.
 - **Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben gefertigt, um eine perfekte Passform und dauerhafte Leistung zu gewährleisten.
 - **Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.
 
