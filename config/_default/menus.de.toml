@@ -62,3 +62,8 @@ url = "jobs-gallery/"
 name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 3
+
+[[footer]]
+name = "AGB"
+url = "agb/"
+weight = 3
