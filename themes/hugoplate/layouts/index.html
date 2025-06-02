@@ -58,6 +58,11 @@
         <h2 class="mb-4">
           {{ .title | markdownify }}
         </h2>
+  {{ with .subtitle }}
+<h3 class="mb-4">
+  {{ . | markdownify }}
+</h3>
+{{ end }}
         <p class="mb-8 text-lg">
           {{ .content | markdownify }}
         </p>
