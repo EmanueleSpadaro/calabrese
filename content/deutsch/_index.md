@@ -30,7 +30,8 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - subtitle: "Montagedienste für Bauelemente"
+  - title: ""
+    subtitle: "Montagedienste für Bauelemente"
     image: "/images/bernd-gruber-paragraph-1.jpg"
     content: "Wir übernehmen die fachgerechte Montage von Bauelementen – präzise, sauber und mit langjähriger Erfahrung. Sanierungen und Modernisierungen von Alt- und Neubauten begleiten wir mit einem umfassenden und individuell abgestimmten Service, der sich an Ihren Anforderungen und Vorstellungen sowie den baulichen Gegebenheiten orientiert. Als Experten für **Montage von Bauelementen in Bochum** bieten wir folgende Leistungen an:"
     bulletpoints:
