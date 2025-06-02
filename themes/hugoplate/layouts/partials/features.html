@@ -18,9 +18,11 @@
           class="{{ if not (modBool $i 2) }}
             md:order-1
           {{ end }} md:col-7 lg:col-6">
-          <h2 class="mb-4">
-            {{ .title | markdownify }}
-          </h2>
+          {{ if .title }}
+  <h2 class="mb-4">
+    {{ .title | markdownify }}
+  </h2>
+{{ end }}
           <p class="mb-8 text-lg">
             {{ .content | markdownify }}
           </p>
