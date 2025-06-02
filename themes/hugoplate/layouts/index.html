@@ -54,7 +54,7 @@
 {{ if not .image }}
   {{ $textCols = "col-12 text-center" }}
 {{ end }}
-<div class="{{ if not (modBool $i 2) }} md:order-1 {{ end }} {{ $textCols }} {{ if .alignLeft }}text-left{{ else }}text-center{{ end }}">
+<div class="{{ if not (modBool $i 2) }} md:order-1 {{ end }} {{ $textCols }}">
         <h2 class="mb-4">
           {{ .title | markdownify }}
         </h2>
