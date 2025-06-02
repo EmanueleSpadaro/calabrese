@@ -17,7 +17,6 @@ features:
   - title: "Erfahrene Montagefirma für den Einbau von Fenstern, Türen & mehr"
     image: ""
     content: "Als eingespielte **Montagefirma in Bochum** sorgen wir für den passgenauen Einbau einer breiten Palette von Bauelementen – effizient, sauber und zuverlässig. Unsere Arbeitsweise basiert auf klaren Abläufen, modernem Werkzeug und langjähriger Erfahrung. Private Bauprojekte sowie gewerbliche Vorhaben setzen wir gleichermaßen präzise und termintreu um."
-    tightSpacing: true
     button:
       enable: false
       label: "Get Started Now"
