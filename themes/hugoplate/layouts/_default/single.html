@@ -14,4 +14,8 @@
     </div>
   </section>
   {{ partial "features.html" . }}
+
+  {{ if eq .File.Path "pages/windows.md" }}
+    {{ partial "main-partner-video.html" . }}
+  {{ end }}
 {{ end }}
