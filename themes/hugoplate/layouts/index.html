@@ -41,7 +41,7 @@
 {{ range $i, $e:= .Params.features }}
 {{ $sectionClass := "section-sm" }}
 {{ if $e.tightSpacing }}
-  {{ $sectionClass = "pt-14 pb-0" }}
+  {{ $sectionClass = "pt-10 pb-0" }}
 {{ end }}
 
 <section class="{{ $sectionClass }} {{ if (modBool $i 2) }}bg-gradient{{ end }}">
@@ -87,12 +87,12 @@
         {{ with .button }}
         {{ if .enable }}
         <div class="pb-4">
-  <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
+  <div class="mt-6 pb-4">
+  <a class="btn btn-primary" href="{{ .link | absURL }}">
     {{ .label }}
     <i class="fa fa-arrow-right pl-2"></i>
   </a>
 </div>
-  <div class="mt-6"></div>
         {{ end }}
         {{ end }}
       </div>
