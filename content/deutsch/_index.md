@@ -42,6 +42,30 @@ features:
       label: "Get Started Now"
       link: "#"
 
+  - subtitle: "Wartung und Reparatur von Fenstern, Türen & Co. in Bochum"
+    image: "/images/bernd-gruber-paragraph-1.jpg"
+    content: "Viele Funktionsstörungen lassen sich durch eine **regelmäßige Wartung** vermeiden, bevor sie überhaupt erst entstehen: Wir prüfen, justieren und pflegen Ihre Bauelemente fachgerecht und gründlich. Sollte doch einmal etwas nicht mehr einwandfrei funktionieren, sind wir als erfahrener Fachbetrieb aus Bochum mit einem **zuverlässigen Reparaturservice** für die von uns installierten Bauelemente wie Fenstern, Türen, Markisen u.a. schnell zur Stelle."
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
+  - subtitle: "Warum sind wir der richtige Montagebetrieb für Sie?"
+    image: "/images/bernd-gruber-paragraph-1.jpg"
+    content: "Mit Calabrese entscheiden Sie sich für einen Partner, der weiß, worauf es ankommt: Verlässlichkeit, klare Absprachen und saubere Arbeit. Genießen Sie die Vorteile einer **erstklassigen, sorgenfreien Installation** – von Anfang bis Ende durchdacht und professionell begleitet. Bei uns erwarten Sie:"
+    bulletpoints:
+      - "**Diverse Produkte:** Von Fenstern über Türen und Markisen bis hin zu Vordächern – wir haben alles"
+      - "**Montage durch Fachleute:** Unsere fachkompetenten Monteure garantieren eine perfekte Passform unserer Bauteile nach Ihren Vorstellungen"
+      - "**Personalisierte Betreuung:** Enge Kundenbeziehungen für individuelle Lösungen und Vertrauen"
+      - "**Spitzenqualität:** Kompromissloses Engagement für hervorragende Leistungen, Erfüllung und Übertreffen von Branchenstandards"
+      - "**Vermächtnis der Exzellenz:** Auf jahrelanger Erfahrung aufbauend, ist es unsere Tradition, Kundenzufriedenheit zu gewährleisten"
+      - "**Flexible Lösungen:** Ästhetik, Energieeffizienz, Sicherheit – umfassende und maßgeschneiderte Fertigungen für Ihre Bedürfnisse"
+    contentAfter: "Der Einbau von Bauteilen bildet oft den letzten Schritt der Bauphase, noch bevor Umzugstransporte und Themen wie Möbelmontage und Küchenmontage und anstehen. Wir als Montagebetrieb in Bochum sorgen dafür, dass Ihr Zuhause erst einmal dicht, sicher und funktional ist und damit bereit für alles weitere."
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
   - title: "Unsere Partner"
     image: "/images/partners/partners.png"
     content: "Wir montieren ausschließlich Bauelemente, von deren Qualität wir überzeugt sind. Daher sind wir stolz, mit einigen der **renommiertesten Namen in der Bauelemente-Branche** zusammenzuarbeiten, die die hohen Ansprüche unseres Montageunternehmens an Material, Verarbeitung und Langlebigkeit teilen. Darunter u.a.:"
@@ -61,6 +85,7 @@ features:
     layout: "centered"
     content: |-
       Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen.
+
     
       Kontaktieren Sie uns jetzt für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
     
