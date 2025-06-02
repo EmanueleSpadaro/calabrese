@@ -65,7 +65,7 @@ image = "images/og-image.png"
 # site verifications
 # verification module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
 [site_verification]
-google = ""   # Your verification code
+google = "B2BHuCEGznh-8DedN_YMEQEpbrd2_XDtQ-_M4hW4M-c"   # Your verification code
 bing = ""     # Your verification code
 baidu = ""    # Your verification code
 facebook = "" # Your verification code
