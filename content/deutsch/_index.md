@@ -18,6 +18,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
+    alignLeft: false
 
   - title: "Übersicht unserer Leistungen"
     image: ""
@@ -41,6 +42,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
+    alignLeft: false
 
   - subtitle: "Wartung und Reparatur von Fenstern, Türen & Co. in Bochum"
     image: "/images/fenster-türen-reparatur.png"
@@ -49,6 +51,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
+    alignLeft: false
 
   - subtitle: "Warum sind wir der richtige Montagebetrieb für Sie?"
     image: ""
@@ -65,6 +68,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
+    alignLeft: false
 
   - title: "Unsere Partner"
     image: "/images/partners/montage-bochum-partner.png"
@@ -80,6 +84,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
+    alignLeft: false
 
   - title: "Ihr Experte für Montage von Bauelementen in Bochum & Umgebung"
     layout: "centered"
