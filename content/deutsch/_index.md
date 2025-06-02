@@ -5,9 +5,9 @@ banner:
   content: "Präzision, Erfahrung und Verlässlichkeit – dafür steht Calabrese, unser Familienunternehmen in zweiter Generation. Seit mehr als 20 Jahren überzeugen wir mit fachgerechter Ausführung, technischem Know-how und höchster Qualität bei der **Montage von Bauelementen in Bochum und Umgebung**. Die Ausarbeitung von Lösungen, die sich nahtlos an Ihre Wünsche anpassen, ist der Kern unserer Kompetenz. Unser Engagement für außergewöhnliche Qualität und persönliche, vertraute Beziehungen zu unseren Kunden bleiben der Grundstein unseres Erfolgs."
   image: "/images/arno-senoner-homepage-header.jpg"
   button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: true
+    label: "Jetzt kontaktieren!"
+    link: "https://calabrese-cwe.de/contact/"
 
 # Features
 features:
@@ -42,12 +42,16 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Ihr Experte für Montage von Bauelementen in Bochum & Umgebung"
+    layout: "centered"
     content: |-
       Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen.
     
       Kontaktieren Sie uns jetzt für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
+    
       (+49) 0160-7625301
+    
       [info@calabrese-cwe.de](mailto:info@calabrese-cwe.de)
+    
       [Kontaktformular](https://calabrese-cwe.de/contact/)
     image: ""
     bulletpoints: []
