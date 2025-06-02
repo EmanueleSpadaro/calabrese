@@ -12,8 +12,24 @@ banner:
 # Features
 features:
   - title: "Erfahrene Montagefirma für den Einbau von Fenstern, Türen & mehr"
+    image: ""
+    content: "Als eingespielte **Montagefirma in Bochum** sorgen wir für den passgenauen Einbau einer breiten Palette von Bauelementen – effizient, sauber und zuverlässig. Unsere Arbeitsweise basiert auf klaren Abläufen, modernem Werkzeug und langjähriger Erfahrung. Private Bauprojekte sowie gewerbliche Vorhaben setzen wir gleichermaßen präzise und termintreu um."
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
+  - title: "Übersicht unserer Leistungen"
+    image: ""
+    content: ""
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
+  - subtitle: "Montagedienste für Bauelemente"
     image: "/images/bernd-gruber-paragraph-1.jpg"
-    content: "Wir übernehmen die fachgerechte Montage einer breiten Palette von Bauelementen – präzise, sauber und mit langjähriger Erfahrung. Sanierungen und Modernisierungen von Alt- und Neubauten begleiten wir mit einem umfassenden und individuell abgestimmten Service, der sich an Ihren Anforderungen und Vorstellungen sowie den baulichen Gegebenheiten orientiert. Als Experten für **Montage von Bauelementen in Bochum** bieten wir folgende Leistungen an:"
+    content: "Wir übernehmen die fachgerechte Montage von Bauelementen – präzise, sauber und mit langjähriger Erfahrung. Sanierungen und Modernisierungen von Alt- und Neubauten begleiten wir mit einem umfassenden und individuell abgestimmten Service, der sich an Ihren Anforderungen und Vorstellungen sowie den baulichen Gegebenheiten orientiert. Als Experten für **Montage von Bauelementen in Bochum** bieten wir folgende Leistungen an:"
     bulletpoints:
       - "[Fenstereinbau in Bochum](https://calabrese-cwe.de/windows/)"
       - "[Haustüren einbauen lassen](https://calabrese-cwe.de/doors/)"
