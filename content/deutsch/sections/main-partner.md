@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Sehen Sie sich die Präsentation von unserem Partner Schnee an"
 description: "Lassen Sie sich von ihrem Engagement und ihrer Professionalität anstecken."
 video: "https://www.youtube-nocookie.com/embed/LwgDYwJ5qXA"
