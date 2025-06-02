@@ -70,7 +70,7 @@ features:
       link: "#"
 
   - title: "Unsere Partner"
-    image: "/images/partners/bauelemente-bochum-partner.png"
+    image: "/images/partners/montage-bauelemente-partner.png"
     content: "Wir montieren ausschließlich Bauelemente, von deren Qualität wir überzeugt sind. Daher sind wir stolz, mit einigen der **renommiertesten Namen in der Bauelemente-Branche** zusammenzuarbeiten, die die hohen Ansprüche unseres Montageunternehmens an Material, Verarbeitung und Langlebigkeit teilen. Darunter u.a.:"
     bulletpoints:
       - "**Sohns-Rolladentechnik:** Ein renommierter Name, der für Qualität und Innovation steht."
