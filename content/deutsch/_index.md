@@ -20,6 +20,14 @@ features:
       link: "#"
 
   - title: "Übersicht unserer Leistungen"
+    image: ""
+    content: ""
+    button:
+      enable: false
+      label: "Get Started Now"
+      link: "#"
+
+  - title: "Übersicht unserer Leistungen"
     subtitle: "Montagedienste für Bauelemente"
     image: "/images/bernd-gruber-paragraph-1.jpg"
     content: "Wir übernehmen die fachgerechte Montage von Bauelementen – präzise, sauber und mit langjähriger Erfahrung. Sanierungen und Modernisierungen von Alt- und Neubauten begleiten wir mit einem umfassenden und individuell abgestimmten Service, der sich an Ihren Anforderungen und Vorstellungen sowie den baulichen Gegebenheiten orientiert. Als Experten für **Montage von Bauelementen in Bochum** bieten wir folgende Leistungen an:"
@@ -36,7 +44,7 @@ features:
       link: "#"
 
   - subtitle: "Wartung und Reparatur von Fenstern, Türen & Co. in Bochum"
-    image: "/images/bernd-gruber-paragraph-1.jpg"
+    image: "/images/fenster-türen-reparatur.png"
     content: "Viele Funktionsstörungen lassen sich durch eine **regelmäßige Wartung** vermeiden, bevor sie überhaupt erst entstehen: Wir prüfen, justieren und pflegen Ihre Bauelemente fachgerecht und gründlich. Sollte doch einmal etwas nicht mehr einwandfrei funktionieren, sind wir als erfahrener Fachbetrieb aus Bochum mit einem **zuverlässigen Reparaturservice** für die von uns installierten Bauelemente wie Fenstern, Türen, Markisen u.a. schnell zur Stelle."
     button:
       enable: false
@@ -60,7 +68,7 @@ features:
       link: "#"
 
   - title: "Unsere Partner"
-    image: "/images/partners/partners.png"
+    image: "/images/partners/montage-bochum-partner.png"
     content: "Wir montieren ausschließlich Bauelemente, von deren Qualität wir überzeugt sind. Daher sind wir stolz, mit einigen der **renommiertesten Namen in der Bauelemente-Branche** zusammenzuarbeiten, die die hohen Ansprüche unseres Montageunternehmens an Material, Verarbeitung und Langlebigkeit teilen. Darunter u.a.:"
     bulletpoints:
       - "**Sohns-Rolladentechnik:** Ein renommierter Name, der für Qualität und Innovation steht."
