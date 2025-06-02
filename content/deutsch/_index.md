@@ -55,7 +55,6 @@ features:
       link: "#"
 
   - subtitle: "Warum sind wir der richtige Montagebetrieb für Sie?"
-    alignLeft: true
     image: ""
     content: "Mit Calabrese entscheiden Sie sich für einen Partner, der weiß, worauf es ankommt: Verlässlichkeit, klare Absprachen und saubere Arbeit. Genießen Sie die Vorteile einer **erstklassigen, sorgenfreien Installation** – von Anfang bis Ende durchdacht und professionell begleitet. Bei uns erwarten Sie:"
     bulletpoints:
