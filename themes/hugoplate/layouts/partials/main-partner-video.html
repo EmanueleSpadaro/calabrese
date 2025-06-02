@@ -1,0 +1,47 @@
+<!-- MainPartnerVideo -->
+{{ with site.GetPage "sections/main-partner" }}
+{{ if .Params.enable }}
+<style>
+  .responsive-youtube {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+  }
+
+  .responsive-youtube iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+</style>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+        <h2 class="mb-4">
+          {{ .Title | markdownify }}
+        </h2>
+        <p>
+          {{ .Params.description | markdownify }}
+        </p>
+        {{ with resources.Get "images/partners/schnee.png" }}
+        <img src="{{ .RelPermalink }}" alt="" class="max-w-sm mx-auto mt-4">
+        {{ end }}
+      </div>
+      <div class="col-12">
+        <div class="responsive-youtube">
+          <iframe src="{{.Params.video}}" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /MainPartnerVideo-->
