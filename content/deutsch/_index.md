@@ -51,7 +51,7 @@ features:
       link: "#"
 
   - subtitle: "Warum sind wir der richtige Montagebetrieb für Sie?"
-    image: "/images/bernd-gruber-paragraph-1.jpg"
+    image: ""
     content: "Mit Calabrese entscheiden Sie sich für einen Partner, der weiß, worauf es ankommt: Verlässlichkeit, klare Absprachen und saubere Arbeit. Genießen Sie die Vorteile einer **erstklassigen, sorgenfreien Installation** – von Anfang bis Ende durchdacht und professionell begleitet. Bei uns erwarten Sie:"
     bulletpoints:
       - "**Diverse Produkte:** Von Fenstern über Türen und Markisen bis hin zu Vordächern – wir haben alles"
@@ -85,8 +85,7 @@ features:
     layout: "centered"
     content: |-
       Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen.
-
-    
+<p></p>
       Kontaktieren Sie uns jetzt für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
     
       (+49) 0160-7625301
