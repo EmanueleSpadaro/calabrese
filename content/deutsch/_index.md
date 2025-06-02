@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Ein Familienunternehmen"
+  title: "Montageunternehmen für Bauelemente Bochum"
   content: "Die Ausarbeitung von Lösungen, die sich nahtlos an Ihre Wünsche anpassen, ist der Kern unserer Kompetenz. Als Familienunternehmen in zweiter Generation zeichnen wir uns durch den Einbau und das Ausmessen einer breiten Palette von Produkten aus, darunter Fenster, Türen, Rollläden, Vordächer und Markisen. Unser Engagement für außergewöhnliche Qualität und enge, persönliche Beziehungen zu unseren Kunden bleibt der Grundstein unseres Erfolgs."
   image: "/images/arno-senoner-homepage-header.jpg"
   button:
