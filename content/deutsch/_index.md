@@ -85,7 +85,7 @@ features:
     layout: "centered"
     content: |-
       Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen.
-<p></p>
+
       Kontaktieren Sie uns jetzt für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
     
       (+49) 0160-7625301
