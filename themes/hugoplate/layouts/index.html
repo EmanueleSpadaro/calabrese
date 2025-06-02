@@ -74,6 +74,11 @@
           </li>
           {{ end }}
         </ul>
+  {{ with .contentAfter }}
+<p class="mt-6 text-lg">
+  {{ . | markdownify }}
+</p>
+{{ end }}
         {{ with .button }}
         {{ if .enable }}
         <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
