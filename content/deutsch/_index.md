@@ -32,9 +32,9 @@ features:
     image: "/images/bernd-gruber-paragraph-1.jpg"
     content: "Wir übernehmen die fachgerechte Montage von Bauelementen – präzise, sauber und mit langjähriger Erfahrung. Sanierungen und Modernisierungen von Alt- und Neubauten begleiten wir mit einem umfassenden und individuell abgestimmten Service, der sich an Ihren Anforderungen und Vorstellungen sowie den baulichen Gegebenheiten orientiert. Als Experten für **Montage von Bauelementen in Bochum** bieten wir folgende Leistungen an:"
     bulletpoints:
-      - "[Fenstereinbau in Bochum](https://calabrese-cwe.de/windows/)"
-      - "[Haustüren einbauen lassen](https://calabrese-cwe.de/doors/)"
-      - "Installation von [Rollläden in Bochum](https://calabrese-cwe.de/shutters/)"
+      - "[Fenstereinbau in Bochum](https://calabrese-cwe.de/windows/ "Fenstereinbau in Bochum")"
+      - "[Haustüren einbauen lassen](https://calabrese-cwe.de/doors/ "Haustüren einbauen lassen")"
+      - "Installation von [Rollläden in Bochum](https://calabrese-cwe.de/shutters/ "Rollläden in Bochum")"
       - "Montage von Vordächern"
       - "Anbringung von Markisen"
       - "Einbau von Fliegengittern"
