@@ -28,3 +28,8 @@
 
 @import "module-overrides";
 @import "custom";
+
+a {
+  @apply underline;
+}
+
