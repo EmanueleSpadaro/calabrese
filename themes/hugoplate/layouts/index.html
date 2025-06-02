@@ -41,7 +41,7 @@
 {{ range $i, $e:= .Params.features }}
 {{ $sectionClass := "section-sm" }}
 {{ if $e.tightSpacing }}
-  {{ $sectionClass = "pt-8 pb-8" }}
+  {{ $sectionClass = "pt-2 pb-2" }}
 {{ end }}
 
 <section class="{{ $sectionClass }} {{ if (modBool $i 2) }}bg-gradient{{ end }}">
