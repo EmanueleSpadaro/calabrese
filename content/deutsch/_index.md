@@ -26,6 +26,7 @@ features:
   - title: "Übersicht unserer Leistungen"
     image: ""
     content: ""
+    tightSpacing: true
     button:
       enable: false
       label: "Get Started Now"
