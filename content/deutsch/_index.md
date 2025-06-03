@@ -38,7 +38,7 @@ features:
     bulletpoints:
       - '[Fenstereinbau in Bochum](https://calabrese-cwe.de/windows/ "Fenstereinbau in Bochum")'
       - '[Haustüren einbauen lassen](https://calabrese-cwe.de/doors/ "Haustüren einbauen lassen")'
-      - 'Installation von [Rollläden in Bochum](https://calabrese-cwe.de/shutters/ "Rollläden in Bochum")'
+      - <a href="https://calabrese-cwe.de/shutters/" title="Rollläden in Bochum">Rollläden in Bochum</a>
       - "Montage von Vordächern"
       - "Anbringung von Markisen"
       - "Einbau von Fliegengittern"
