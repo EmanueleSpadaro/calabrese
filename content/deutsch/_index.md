@@ -21,6 +21,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
+    textAfterButton: " "
 
   - title: "Übersicht unserer Leistungen"
     image: ""
@@ -36,8 +37,8 @@ features:
     image: "/images/bernd-gruber-paragraph-1.jpg"
     content: "Wir übernehmen die fachgerechte Montage von Bauelementen – präzise, sauber und mit langjähriger Erfahrung. Sanierungen und Modernisierungen von Alt- und Neubauten begleiten wir mit einem umfassenden und individuell abgestimmten Service, der sich an Ihren Anforderungen und Vorstellungen sowie den baulichen Gegebenheiten orientiert. Als Experten für **Montage von Bauelementen in Bochum** bieten wir folgende Leistungen an:"
     bulletpoints:
-      - '[Fenstereinbau in Bochum](https://calabrese-cwe.de/windows/ "Fenstereinbau in Bochum")'
-      - '[Haustüren einbauen lassen](https://calabrese-cwe.de/doors/ "Haustüren einbauen lassen")'
+      - <a href="https://calabrese-cwe.de/windows/" title="Fenstereinbau in Bochum">Fenstereinbau in Bochum</a>
+      - <a href="https://calabrese-cwe.de/doors/" title="Haustüren einbauen lassen">Haustüren einbauen lassen</a>
       - <a href="https://calabrese-cwe.de/shutters/" title="Rollläden in Bochum">Rollläden in Bochum</a>
       - "Montage von Vordächern"
       - "Anbringung von Markisen"
@@ -92,15 +93,15 @@ features:
       Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen.
 
       Kontaktieren Sie uns jetzt für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
-    
-      (+49) 0160-7625301
-    
-      [info@calabrese-cwe.de](mailto:info@calabrese-cwe.de)
-    
-      [Kontaktformular](https://calabrese-cwe.de/contact/)
     image: ""
     bulletpoints: []
     button:
-      enable: false
+      enable: true
+      label: "Jetzt kontaktieren!"
+      link: "[https://github.com/zeon-studio/hugoplate](https://calabrese-cwe.de/contact/)"
+    textAfterButton: |-
+      (+49) 0160-7625301
+    
+      [info@calabrese-cwe.de](mailto:info@calabrese-cwe.de)
     neutralBackground: true
 ---
