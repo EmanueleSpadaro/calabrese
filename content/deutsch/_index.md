@@ -95,7 +95,7 @@ features:
     button:
       enable: true
       label: "Jetzt kontaktieren!"
-      link: "[https://github.com/zeon-studio/hugoplate](https://calabrese-cwe.de/contact/)"
+      link: "https://calabrese-cwe.de/contact/"
     textAfterButton: |-
       Kontaktieren Sie uns gern für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
     
