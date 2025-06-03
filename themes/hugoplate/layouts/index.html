@@ -84,17 +84,22 @@
   {{ . | markdownify }}
 </p>
 {{ end }}
-        {{ with .button }}
-        {{ if .enable }}
-        <div class="pb-4">
-  <div class="mt-6 pb-4">
-  <a class="btn btn-primary" href="{{ .link | absURL }}">
-    {{ .label }}
-    <i class="fa fa-arrow-right pl-2"></i>
-  </a>
-</div>
-        {{ end }}
-        {{ end }}
+{{ with .button }}
+  {{ if .enable }}
+    <div class="mt-6 pb-4">
+      <a class="btn btn-primary" href="{{ .link | absURL }}">
+        {{ .label }}
+        <i class="fa fa-arrow-right pl-2"></i>
+      </a>
+    </div>
+  {{ end }}
+{{ end }}
+
+{{ with .textAfterButton }}
+  <p class="mt-2 text-base">
+    {{ . | markdownify }}
+  </p>
+{{ end }}
       </div>
     </div>
   </div>
