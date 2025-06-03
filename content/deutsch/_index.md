@@ -11,6 +11,7 @@ banner:
     enable: true
     label: "Jetzt kontaktieren!"
     link: "https://calabrese-cwe.de/contact/"
+    textAfterButton: " "
 
 # Features
 features:
@@ -21,7 +22,6 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
-    textAfterButton: " "
 
   - title: "Übersicht unserer Leistungen"
     image: ""
@@ -89,10 +89,7 @@ features:
 
   - title: "Ihr Experte für Montage von Bauelementen in Bochum & Umgebung"
     layout: "centered"
-    content: |-
-      Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen.
-
-      Kontaktieren Sie uns jetzt für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
+    content: "Als regional verwurzelter Familienbetrieb kennen wir die Gegebenheiten vor Ort und sind schnell zur Stelle, wenn es darauf ankommt. Von unserem Standort aus bieten wir unseren Kunden **Montagedienste für Bauelemente in Bochum** und der gesamten Umgebung an: Wattenscheid, Herne, Hattingen, Witten und darüber hinaus. Dank kurzer Wege und flexibler Einsatzplanung können wir schnell reagieren und Projekte termingerecht umsetzen."
     image: ""
     bulletpoints: []
     button:
@@ -100,6 +97,8 @@ features:
       label: "Jetzt kontaktieren!"
       link: "[https://github.com/zeon-studio/hugoplate](https://calabrese-cwe.de/contact/)"
     textAfterButton: |-
+      Kontaktieren Sie uns gern für eine unverbindliche Beratung zum Einbau Ihrer Bauelemente. Wir freuen uns auf Sie!
+    
       (+49) 0160-7625301
     
       [info@calabrese-cwe.de](mailto:info@calabrese-cwe.de)
