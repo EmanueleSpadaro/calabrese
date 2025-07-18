@@ -167,6 +167,8 @@ Die **Kosten für den Fenstereinbau** können je nach Projekt stark variieren. F
 
 Gerne erstellen wir Ihnen ein individuelles Angebot mit **transparenten Preisen für Ihre Fenster inklusive Einbau** - exakt zugeschnitten auf Ihr Vorhaben – professionell, verbindlich und nachvollziehbar.
 
+<div style="height: 50px;"></div>
+
 ### Ihr Schritt zum perfekten Fenster mit Calabrese in Bochum
 
 Unsere persönliche Beratung hilft Ihnen dabei, das passende Fenster-System für Ihr Haus zu finden – individuell geplant, technisch fundiert und abgestimmt auf Ihre Anforderungen vor Ort in Bochum.
