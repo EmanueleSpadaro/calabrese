@@ -15,9 +15,7 @@ VEKA-Fenster entsprechen dem Klasse-A-Profil der DIN EN 12608. Damit entspricht 
 </div>
 
 
-<div class="text-center">
-## Fenstermontage vom Profi in Bochum – effizient, sicher und sauber
-</div>
+<h2 style="text-align: center;">Fenstermontage vom Profi in Bochum – effizient, sicher und sauber</h2>
 
 Entdecken Sie die perfekte Synergie von Technologie und Design unserer Fensterprofile und profitieren Sie von unserer professionellen **Fenstermontage in Bochum**. 
 
@@ -27,9 +25,7 @@ Erleben Sie die Welt der Möglichkeiten mit unseren vielseitigen Fensterlösunge
 
 {{< image src="images/window-hero-section.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-<div class="text-center">
-## Fenster einbauen lassen: Leistung, die überzeugt, Design, das begeistert
-</div>
+<h2 style="text-align: center;">Fenster einbauen lassen: Leistung, die überzeugt, Design, das begeistert</h2>
 
 **Unsere Fenster-Lösungen für Bochum verbinden moderne Technik mit anspruchsvollem Design.** Ganz gleich, ob Sie Wert auf Energieeffizienz, Sicherheit oder Ästhetik legen, unsere **VEKA-Fenster** bieten Ihnen herausragende Eigenschaften in puncto **Energieeffizienz, Sicherheit und Ästhetik** – perfekt abgestimmt auf Ihr Zuhause oder Ihre gewerblich genutzte Immobilie. 
 
@@ -165,9 +161,7 @@ style="height: 360px; display: block; margin-left: auto; margin-right: auto;"/>
 
 {{< /tabs >}}
 
-<div class="text-center">
-  ## Was kostet der Einbau von Fenstern?
-</div>
+<h2 style="text-align: center;">Was kostet der Einbau von Fenstern?</h2>
 
 Die **Kosten für den Fenstereinbau** können je nach Projekt stark variieren. Faktoren wie die Fenster-Art, die Größe der Elemente, die Einbausituation (z. B. in welcher Etage), der bauliche Zustand sowie die Frage, ob es sich um einen Einbau im Neubau oder im Rahmen einer Sanierung handelt, beeinflussen den Gesamtaufwand. Auch zusätzliche Leistungen wie Demontage alter Fenster, Sonnenschutz oder Insektenschutz spielen eine Rolle.
 
@@ -177,8 +171,8 @@ Gerne erstellen wir Ihnen ein individuelles Angebot mit **transparenten Preisen 
 
 Unsere persönliche Beratung hilft Ihnen dabei, das passende Fenster-System für Ihr Haus zu finden – individuell geplant, technisch fundiert und abgestimmt auf Ihre Anforderungen vor Ort in Bochum.
 
-Ob Sie hochwertige [Haustüren einbauen lassen](https://calabrese-cwe.de/doors/) wollen, passende [Rollladen in Bochum](https://calabrese-cwe.de/shutters/) suchen oder Ihre Fenster mit durchdachtem Zubehör ergänzen möchten – wir begleiten Sie zuverlässig von der ersten Idee bis zur finalen Umsetzung.
-Verlassen Sie sich auf unsere Erfahrung, Präzision und den professionellen Service bei der [Montage in Bochum](https://calabrese-cwe.de/) – effizient, sauber und exakt auf Maß.
+Ob Sie hochwertige <a href="https://calabrese-cwe.de/doors/" title="Haustüren einbauen lassen">Haustüren einbauen lassen</a> wollen, passende <a href="https://calabrese-cwe.de/shutters/" title="Rollläden in Bochum">Rollläden in Bochum</a> suchen oder Ihre Fenster mit durchdachtem Zubehör ergänzen möchten – wir begleiten Sie zuverlässig von der ersten Idee bis zur finalen Umsetzung.
+Verlassen Sie sich auf unsere Erfahrung, Präzision und den professionellen Service bei der <a href="https://calabrese-cwe.de/" title="Montage in Bochum">Montage in Bochum</a> – effizient, sauber und exakt auf Maß.
 
 <div class="text-center">
   <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
