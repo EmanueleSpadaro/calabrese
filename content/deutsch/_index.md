@@ -1,5 +1,5 @@
 ---
-title: Montageunternehmen für Bauelemente Bochum | Calabrese CWE
+title: Montageunternehmen für Bauelemente Bochum | Calabrese
 description: Professionelle Montage & Reparatur von Fenstern, Türen uvm. in Bochum und Umgebung. ✓Spitzenqualität ✓Individuelle Lösungen » Jetzt kontaktieren
 
 # Banner
