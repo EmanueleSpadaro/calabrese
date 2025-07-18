@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Sehen Sie sich die Präsentation von unserem Partner Schnee an"
+title: "Fensterbau von unserem Partner Schnee"
 description: "Lassen Sie sich von ihrem Engagement und ihrer Professionalität anstecken."
 video: "https://www.youtube-nocookie.com/embed/LwgDYwJ5qXA"
 
