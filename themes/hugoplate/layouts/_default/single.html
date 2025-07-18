@@ -1,4 +1,6 @@
 {{ define "main" }}
+  {{ if not .Params.hideHeader }}
+    {{ partial "page-header" . }}
   {{ partial "page-header" . }}
 
 
