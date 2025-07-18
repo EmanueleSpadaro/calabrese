@@ -14,7 +14,10 @@ VEKA-Fenster entsprechen dem Klasse-A-Profil der DIN EN 12608. Damit entspricht 
   <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
 </div>
 
+
+<div class="text-center">
 ## Fenstermontage vom Profi in Bochum – effizient, sicher und sauber
+</div>
 
 Entdecken Sie die perfekte Synergie von Technologie und Design unserer Fensterprofile und profitieren Sie von unserer professionellen **Fenstermontage in Bochum**. 
 
@@ -24,7 +27,9 @@ Erleben Sie die Welt der Möglichkeiten mit unseren vielseitigen Fensterlösunge
 
 {{< image src="images/window-hero-section.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
+<div class="text-center">
 ## Fenster einbauen lassen: Leistung, die überzeugt, Design, das begeistert
+</div>
 
 **Unsere Fenster-Lösungen für Bochum verbinden moderne Technik mit anspruchsvollem Design.** Ganz gleich, ob Sie Wert auf Energieeffizienz, Sicherheit oder Ästhetik legen, unsere **VEKA-Fenster** bieten Ihnen herausragende Eigenschaften in puncto **Energieeffizienz, Sicherheit und Ästhetik** – perfekt abgestimmt auf Ihr Zuhause oder Ihre gewerblich genutzte Immobilie. 
 
@@ -37,6 +42,10 @@ Erleben Sie die Welt der Möglichkeiten mit unseren vielseitigen Fensterlösunge
 - **Ästhetik:** Genießen Sie die nahtlose Integration von modernem Design und Funktionalität. Unsere Fenster bieten schmale Ansichtsbreiten und großzügige Glasflächen für ein elegantes und zeitgemäßes Aussehen.
 
 Entdecken Sie unser Angebot an Fensterprofilen, um die perfekte Lösung für Ihr Projekt zu finden.
+
+<div class="text-center">
+  <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
+</div>
 
 {{< tabs >}}
 {{< tab "SOFTLINE 76 AD" >}}
@@ -156,7 +165,9 @@ style="height: 360px; display: block; margin-left: auto; margin-right: auto;"/>
 
 {{< /tabs >}}
 
-## Was kostet der Einbau von Fenstern?
+<div class="text-center">
+  ## Was kostet der Einbau von Fenstern?
+</div>
 
 Die **Kosten für den Fenstereinbau** können je nach Projekt stark variieren. Faktoren wie die Fenster-Art, die Größe der Elemente, die Einbausituation (z. B. in welcher Etage), der bauliche Zustand sowie die Frage, ob es sich um einen Einbau im Neubau oder im Rahmen einer Sanierung handelt, beeinflussen den Gesamtaufwand. Auch zusätzliche Leistungen wie Demontage alter Fenster, Sonnenschutz oder Insektenschutz spielen eine Rolle.
 
@@ -168,3 +179,7 @@ Unsere persönliche Beratung hilft Ihnen dabei, das passende Fenster-System für
 
 Ob Sie hochwertige [Haustüren einbauen lassen](https://calabrese-cwe.de/doors/) wollen, passende [Rollladen in Bochum](https://calabrese-cwe.de/shutters/) suchen oder Ihre Fenster mit durchdachtem Zubehör ergänzen möchten – wir begleiten Sie zuverlässig von der ersten Idee bis zur finalen Umsetzung.
 Verlassen Sie sich auf unsere Erfahrung, Präzision und den professionellen Service bei der [Montage in Bochum](https://calabrese-cwe.de/) – effizient, sauber und exakt auf Maß.
+
+<div class="text-center">
+  <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
+</div>
