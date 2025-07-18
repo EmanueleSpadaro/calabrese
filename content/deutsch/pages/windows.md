@@ -8,7 +8,7 @@ draft: false
 
 <h1 style="text-align: center;">Fenstereinbau Bochum – Ihr Experte für Premium-Fenster mit Montage</h1>
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 **Verschönern Sie Ihr Haus- oder Ihren Arbeitsbereich in Bochum mit unseren modernen Fensterlösungen.** Unsere sorgfältig gefertigten **VEKA Fensterprofile** wurden entwickelt, um die Energieeffizienz, die Sicherheit und die Ästhetik Ihrer Immobilie zu verbessern.
 
