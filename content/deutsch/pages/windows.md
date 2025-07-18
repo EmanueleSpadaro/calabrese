@@ -10,6 +10,11 @@ draft: false
 VEKA-Fenster entsprechen dem Klasse-A-Profil der DIN EN 12608. Damit entspricht jedes **VEKA-Fenster** einer unabhängigen Qualitätsnorm. Darauf ist garantiert Verlass. Mit VEKA-Fenstern wählen Sie Bauelemente von hoher Qualität.
 {{< /notice >}}
 
+  button:
+    enable: true
+    label: "Jetzt kontaktieren!"
+    link: "https://calabrese-cwe.de/contact/"
+
 ## Fenstermontage vom Profi in Bochum – effizient, sicher und sauber
 
 Entdecken Sie die perfekte Synergie von Technologie und Design unserer Fensterprofile und profitieren Sie von unserer professionellen **Fenstermontage in Bochum**. 
