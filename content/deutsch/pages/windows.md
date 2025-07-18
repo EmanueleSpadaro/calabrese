@@ -32,7 +32,7 @@ Erleben Sie die Welt der Möglichkeiten mit unseren vielseitigen Fensterlösunge
 
 {{< image src="images/window-hero-section.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 <h2 style="text-align: center;">Fenster einbauen lassen: Leistung, die überzeugt, Design, das begeistert</h2>
 
@@ -193,7 +193,7 @@ Unsere persönliche Beratung hilft Ihnen dabei, das passende Fenster-System für
 Ob Sie hochwertige <a href="https://calabrese-cwe.de/doors/" title="Haustüren einbauen lassen">Haustüren einbauen lassen</a> wollen, passende <a href="https://calabrese-cwe.de/shutters/" title="Rollläden in Bochum">Rollläden in Bochum</a> suchen oder Ihre Fenster mit durchdachtem Zubehör ergänzen möchten – wir begleiten Sie zuverlässig von der ersten Idee bis zur finalen Umsetzung.
 Verlassen Sie sich auf unsere Erfahrung, Präzision und den professionellen Service bei der <a href="https://calabrese-cwe.de/" title="Montage in Bochum">Montage in Bochum</a> – effizient, sauber und exakt auf Maß.
 
-<div style="height: 10px;"></div
+<div style="height: 10px;"></div>
 
 <div class="text-center">
   <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
