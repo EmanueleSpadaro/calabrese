@@ -8,6 +8,8 @@ draft: false
 
 <h1 style="text-align: center;">Fenstereinbau Bochum – Ihr Experte für Premium-Fenster mit Montage</h1>
 
+<div style="height: 40px;"></div>
+
 **Verschönern Sie Ihr Haus- oder Ihren Arbeitsbereich in Bochum mit unseren modernen Fensterlösungen.** Unsere sorgfältig gefertigten **VEKA Fensterprofile** wurden entwickelt, um die Energieeffizienz, die Sicherheit und die Ästhetik Ihrer Immobilie zu verbessern.
 
 {{< notice "tip" >}}
@@ -36,7 +38,7 @@ Erleben Sie die Welt der Möglichkeiten mit unseren vielseitigen Fensterlösunge
 
 **Unsere Fenster-Lösungen für Bochum verbinden moderne Technik mit anspruchsvollem Design.** Ganz gleich, ob Sie Wert auf Energieeffizienz, Sicherheit oder Ästhetik legen, unsere **VEKA-Fenster** bieten Ihnen herausragende Eigenschaften in puncto **Energieeffizienz, Sicherheit und Ästhetik** – perfekt abgestimmt auf Ihr Zuhause oder Ihre gewerblich genutzte Immobilie. 
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 ### Warum Sie sich für unsere Fenster entscheiden sollten?
 
@@ -48,11 +50,13 @@ Erleben Sie die Welt der Möglichkeiten mit unseren vielseitigen Fensterlösunge
 
 Entdecken Sie unser Angebot an Fensterprofilen, um die perfekte Lösung für Ihr Projekt zu finden.
 
+<div style="height: 10px;"></div>
+
 <div class="text-center">
   <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
 </div>
 
-<div style="height: 40px;"></div>
+<div style="height: 60px;"></div>
 
 {{< tabs >}}
 {{< tab "SOFTLINE 76 AD" >}}
@@ -180,7 +184,7 @@ Die **Kosten für den Fenstereinbau** können je nach Projekt stark variieren. F
 
 Gerne erstellen wir Ihnen ein individuelles Angebot mit **transparenten Preisen für Ihre Fenster inklusive Einbau** - exakt zugeschnitten auf Ihr Vorhaben – professionell, verbindlich und nachvollziehbar.
 
-<div style="height: 40px;"></div>
+<div style="height: 20px;"></div>
 
 ### Ihr Schritt zum perfekten Fenster mit Calabrese in Bochum
 
@@ -188,6 +192,8 @@ Unsere persönliche Beratung hilft Ihnen dabei, das passende Fenster-System für
 
 Ob Sie hochwertige <a href="https://calabrese-cwe.de/doors/" title="Haustüren einbauen lassen">Haustüren einbauen lassen</a> wollen, passende <a href="https://calabrese-cwe.de/shutters/" title="Rollläden in Bochum">Rollläden in Bochum</a> suchen oder Ihre Fenster mit durchdachtem Zubehör ergänzen möchten – wir begleiten Sie zuverlässig von der ersten Idee bis zur finalen Umsetzung.
 Verlassen Sie sich auf unsere Erfahrung, Präzision und den professionellen Service bei der <a href="https://calabrese-cwe.de/" title="Montage in Bochum">Montage in Bochum</a> – effizient, sauber und exakt auf Maß.
+
+<div style="height: 10px;"></div
 
 <div class="text-center">
   <a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
