@@ -4,12 +4,12 @@ description: "In Bochum & Region Haustüren fachgerecht einbauen lassen: Hochwer
 date: 2024-02-14T02:18:53+01:00
 draft: false
 ---
-
+<h1 style="text-align: center;">Haustüren einbauen lassen – Inotherm Türen inkl. Montage</h1>
 {{< image src="images/doors/inotherm-logo.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
 <!-- ## Willkommen bei deutscher Handwerkskunst von Inotherm für Ihre Haustür -->
 
-Ihre Haustür ist mehr als nur ein Eingang - sie ist ein Statement. Wir von Calabrese haben uns auf den Einbau von exquisiten Haustüren von Inotherm spezialisiert, die Stil, Sicherheit und Energieeffizienz nahtlos miteinander verbinden. Ganz gleich, ob Sie Ihr Haus modernisieren oder seine Attraktivität steigern wollen, unsere preisgekrönten Haustüren hinterlassen einen bleibenden Eindruck.
+Ihre Haustür ist mehr als nur ein Eingang – sie ist ein Statement über Ihr Zuhause. Sie möchten eine neue und hochwertige **Haustür einbauen lassen**? Wir von Calabrese haben uns im Raum Bochum auf den **Einbau von exquisiten Haustüren von Inotherm** spezialisiert, die Stil, Sicherheit und Energieeffizienz nahtlos miteinander verbinden. Ganz gleich, ob Sie Ihr Haus modernisieren oder die Attraktivität Ihrer Immobilie steigern wollen, unsere preisgekrönten Haustüren hinterlassen einen bleibenden Eindruck.
 
 {{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
