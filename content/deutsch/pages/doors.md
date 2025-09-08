@@ -10,6 +10,9 @@ draft: false
 <!-- ## Willkommen bei deutscher Handwerkskunst von Inotherm für Ihre Haustür -->
 
 Ihre Haustür ist mehr als nur ein Eingang – sie ist ein Statement über Ihr Zuhause. Sie möchten eine neue und hochwertige **Haustür einbauen lassen**? Wir von Calabrese haben uns im Raum Bochum auf den **Einbau von exquisiten Haustüren von Inotherm** spezialisiert, die Stil, Sicherheit und Energieeffizienz nahtlos miteinander verbinden. Ganz gleich, ob Sie Ihr Haus modernisieren oder die Attraktivität Ihrer Immobilie steigern wollen, unsere preisgekrönten Haustüren hinterlassen einen bleibenden Eindruck.
+<div class="text-center">
+<a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
+</div>
 
 {{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
