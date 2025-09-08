@@ -15,15 +15,35 @@ Ihre Haustür ist mehr als nur ein Eingang – sie ist ein Statement über Ihr Z
 </div>
 
 {{< image src="images/doors/door-hero.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
+##Warum Inotherm?
+**Inotherm Haust&uuml;ren** bieten je nach Modell und gew&uuml;nschter Ausstattung:
+<ul>
+<li>h&ouml;chste <strong>Sicherheit</strong> mit Mehrfachverriegelung und Fingerprint-Systeme</li>
+<li>starke <strong>W&auml;rmed&auml;mmung</strong> dank moderner Aluminiumprofile und Dreifach-Verglasung</li>
+<li>hohen <strong>Komfort</strong> durch Smart-Home-Anbindung und barrierefreie L&ouml;sungen</li>
+<li>eine Vielzahl an <strong>Designvarianten</strong> und langlebigen, pflegeleichten Oberfl&auml;chen</li>
+</ul><div style="height: 10px;"></div>
+##Vorteile des professionellen T&uuml;reinbaus durch eine Firma: Calabrese ist Ihr Partner
+Calabrese steht seit &uuml;ber 20 Jahren f&uuml;r <strong>Pr&auml;zision, Erfahrung und Qualit&auml;t</strong> bei der Bauelemente-<a title="Montage in Bochum" href="https://calabrese-cwe.de/ ">Montage in Bochum</a> und Umgebung. Als Familienunternehmen verbinden wir technisches Know-how mit pers&ouml;nlicher Betreuung und passgenauen L&ouml;sungen.<br />Von uns eine <strong>Haust&uuml;r professionell einbauen zu lassen</strong>, lohnt sich: Nur die <strong>fachgerechte Montage durch eine Firma</strong> gew&auml;hrleistet perfekte Dichtheit, zuverl&auml;ssigen Einbruchschutz und optimale W&auml;rmed&auml;mmung. Zudem behalten Sie die volle Hersteller-Garantie und vermeiden Folgekosten durch Einbaufehler.
+<div class="text-center">
+<a href="https://calabrese-cwe.de/contact/" class="btn btn-primary">Jetzt kontaktieren!</a>
+</div>
 
 <!-- ### Warum sollten Sie sich für unsere in Deutschland hergestellten Haustüren entscheiden? -->
+###Sie genießen zu Hause das Resultat der Haustürmontage:
+- **Aufwertung des Erscheinungsbildes**: Eine neue, schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich. 
+- **Vielfältige Designs**: Inotherm Türen ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.
 
-- **Aufwertung des Erscheinungsbildes**: Eine schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich. Unsere eleganten Designs ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck.
-
-- **Schauspielerisch**: Unsere Türen funktionieren reibungslos und anmutig und spiegeln den einzigartigen Charakter Ihres Hauses wider. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.
-
-- **Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und schließen Wärme und Luft ein. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.
-
+- **Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und halten die Wärme im Haus. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.
+##Neue Haust&uuml;r kaufen mit Einbau: Wie ist der Ablauf bei Calabrese?
+###Individuelle Beratung &amp; exaktes Aufma&szlig;
+Am Anfang steht eine pers&ouml;nliche Beratung, bei der wir Ihre W&uuml;nsche aufnehmen und die Gegebenheiten vor Ort pr&uuml;fen. Anschlie&szlig;end messen wir alles millimetergenau aus, damit die neue Inotherm-Haust&uuml;r sp&auml;ter perfekt passt.</p>
+###Auswahl nach Ihren W&uuml;nschen treffen
+Aus dem umfangreichen Inotherm-Sortiment w&auml;hlen Sie Ihr Wunschmodell &ndash; von klassisch bis modern. Wir unterst&uuml;tzen Sie dabei, die richtige Kombination aus Design, Sicherheit und Energieeffizienz f&uuml;r Ihr Zuhause zu finden.</p>
+###Lieferung &amp; Montage Ihrer neuen Haust&uuml;r
+Sobald Ihre T&uuml;r gefertigt ist, liefern wir sie direkt zu Ihnen. Unser geschultes Handwerker-Fachteam &uuml;bernimmt den **fachgerechten Einbau Ihrer Haust&uuml;r** (bei Bedarf inklusive Ausbau und Entsorgung der alten T&uuml;r) &ndash; sauber, zuverl&auml;ssig und termingerecht.
+###Abnahme &amp; Garantie
+Nach der Montage pr&uuml;fen wir gemeinsam mit Ihnen die Funktionalit&auml;t und Passgenauigkeit. Sie erhalten volle Herstellergarantie sowie unsere Gew&auml;hrleistung auf den Einbau. **F&uuml;r langfristige Sicherheit und sorgenfreies Wohnen.**
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 1rem; justify-items: center; align-items: center;">
     {{< image src="images/doors/grid-1.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
     {{< image src="images/doors/grid-2.jpg" caption="" alt="alter-text" height="" width="" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
@@ -31,14 +51,26 @@ Ihre Haustür ist mehr als nur ein Eingang – sie ist ein Statement über Ihr Z
 </div>
 
 <!-- ### Warum also Calabrese für Ihre Haustür wählen? -->
-
-- **Signatur Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.
-- **Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben gefertigt, um eine perfekte Passform und dauerhafte Leistung zu gewährleisten.
+###Passgenaue Qualität für beste Zufriedenheit
+- **Wahre Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.
+- **Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben hergestellt, um eine perfekte Passform und dauerhafte Funktionalität zu gewährleisten.
 - **Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.
+{{< notice "tip" >}}
+####Mehr Montage-Services von Calabrese:
+<ul>
+<li><a title="Fenstereinbau Bochum" href="https://calabrese-cwe.de/windows/">Fenstereinbau Bochum</a></li>
+<li>Einbau von <a title="Rollladen Bochum" href="https://calabrese-cwe.de/shutters/">Rollladen Bochum</a></li>
+<li>Montage von Vord&auml;chern</li>
+<li>Anbringung von Markisen</li>
+<li>Einbau von Fliegengittern</li>
+</ul>
+{{< /notice >}}
+##Jetzt Beratung anfragen & Haustür einbauen lassen!
 
-Vereinbaren Sie noch heute einen kostenlosen Beratungstermin bei Ihnen zu Hause!
+Vereinbaren Sie noch heute einen **kostenlosen Beratungstermin bei Ihnen zu Hause**! Setzen Sie sich mit uns in Verbindung, um Ihre Bedürfnisse zu besprechen, Haustürmodelle zu entdecken und den Calabrese-Unterschied zu erleben.
 
-Setzen Sie sich mit uns in Verbindung, um Ihre Bedürfnisse zu besprechen, Haustürmodelle zu entdecken und den Calabrese-Unterschied zu erleben. Lassen Sie uns Ihre Haustür in ein Meisterwerk verwandeln, das Schönheit, Sicherheit und Effizienz vereint.
+Lassen Sie uns Ihr Zuhause in ein Meisterwerk verwandeln, das Schönheit, Sicherheit und Effizienz vereint.
+
 
 <div style="display: flex; justify-content: center;">
     {{< button label="Türen-Konfigurator" link="https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556" style="solid" >}}
