@@ -1,5 +1,6 @@
 ---
-title: "Unsere Türen"
+title: "Haustüren einbauen lassen von Experten | Calabrese"
+description: "In Bochum & Region Haustüren fachgerecht einbauen lassen: Hochwertige Inotherm Türen inkl. Beratung, Lieferung & Montage » Hier informieren!"
 date: 2024-02-14T02:18:53+01:00
 draft: false
 ---
