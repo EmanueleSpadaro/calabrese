@@ -32,13 +32,13 @@ Calabrese steht seit &uuml;ber 20 Jahren f&uuml;r <strong>Pr&auml;zision, Erfahr
 <!-- ### Warum sollten Sie sich für unsere in Deutschland hergestellten Haustüren entscheiden? -->
 </ul><div style="height: 10px;"></div>
 ### Sie genießen zu Hause das Resultat der Haustürmontage:
-- **Aufwertung des Erscheinungsbildes**: Eine neue, schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich. 
-- **Vielfältige Designs**: Inotherm Türen ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.
-
-- **Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und halten die Wärme im Haus. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.
+<ul>
+<li>**Aufwertung des Erscheinungsbildes**: Eine neue, schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich.</li>
+<li>**Vielfältige Designs**: Inotherm Türen ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.</li>
+<li>**Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und halten die Wärme im Haus. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.</li>
 </ul><div style="height: 10px;"></div>
 ## Neue Haust&uuml;r kaufen mit Einbau: Wie ist der Ablauf bei Calabrese?
-</ul><div style="height: 10px;"></div>
+<div style="height: 10px;"></div>
 ### Individuelle Beratung &amp; exaktes Aufma&szlig;
 Am Anfang steht eine pers&ouml;nliche Beratung, bei der wir Ihre W&uuml;nsche aufnehmen und die Gegebenheiten vor Ort pr&uuml;fen. Anschlie&szlig;end messen wir alles millimetergenau aus, damit die neue Inotherm-Haust&uuml;r sp&auml;ter perfekt passt.</p>
 ### Auswahl nach Ihren W&uuml;nschen treffen
@@ -55,9 +55,11 @@ Nach der Montage pr&uuml;fen wir gemeinsam mit Ihnen die Funktionalit&auml;t und
 
 <!-- ### Warum also Calabrese für Ihre Haustür wählen? -->
 ### Passgenaue Qualität für beste Zufriedenheit
-- **Wahre Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.
-- **Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben hergestellt, um eine perfekte Passform und dauerhafte Funktionalität zu gewährleisten.
-- **Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.
+<ul>
+<li>**Wahre Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.</li>
+<li>**Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben hergestellt, um eine perfekte Passform und dauerhafte Funktionalität zu gewährleisten.</li>
+<li>**Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.</li>
+</ul>
 {{< notice "tip" >}}
 #### Mehr Montage-Services von Calabrese:
 <ul>
@@ -69,11 +71,8 @@ Nach der Montage pr&uuml;fen wir gemeinsam mit Ihnen die Funktionalit&auml;t und
 </ul>
 {{< /notice >}}
 ## Jetzt Beratung anfragen & Haustür einbauen lassen!
-
 Vereinbaren Sie noch heute einen **kostenlosen Beratungstermin bei Ihnen zu Hause**! Setzen Sie sich mit uns in Verbindung, um Ihre Bedürfnisse zu besprechen, Haustürmodelle zu entdecken und den Calabrese-Unterschied zu erleben.
-
 Lassen Sie uns Ihr Zuhause in ein Meisterwerk verwandeln, das Schönheit, Sicherheit und Effizienz vereint.
-
 
 <div style="display: flex; justify-content: center;">
     {{< button label="Türen-Konfigurator" link="https://doordesigner.inotherm-tuer.de/configurator/?partnerCode=48556" style="solid" >}}
