@@ -36,9 +36,9 @@ Calabrese steht seit &uuml;ber 20 Jahren f&uuml;r <strong>Pr&auml;zision, Erfahr
 
 ### Sie genießen zu Hause das Resultat der Haustürmontage:
 <ul>
-<li>**Aufwertung des Erscheinungsbildes**: Eine neue, schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich.</li>
-<li>**Vielfältige Designs**: Inotherm Türen ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.</li>
-<li>**Langfristige Einsparungen**: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und halten die Wärme im Haus. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.</li>
+<li><strong>Aufwertung des Erscheinungsbildes</strong>: Eine neue, schöne, energieeffiziente Eingangstür heißt nicht nur Gäste willkommen, sondern steigert auch den Wert Ihres Hauses erheblich.</li>
+<li><strong>Vielfältige Designs</strong>: Inotherm Türen ergänzen verschiedene architektonische Stile und hinterlassen einen eindrucksvollen ersten Eindruck. Von klassisch bis modern, wir haben die perfekte Tür für Ihren Geschmack.</li>
+<li><strong>Langfristige Einsparungen</strong>: Unsere dicht schließenden, wartungsarmen Türrahmen halten Zugluft fern und halten die Wärme im Haus. Dies führt zu Energieeinsparungen und geringeren Wartungskosten im Laufe der Zeit.</li>
 </ul><div style="height: 10px;"></div>
 
 ## Neue Haust&uuml;r kaufen mit Einbau: Wie ist der Ablauf bei Calabrese?
@@ -65,9 +65,9 @@ Nach der Montage pr&uuml;fen wir gemeinsam mit Ihnen die Funktionalit&auml;t und
 
 ### Passgenaue Qualität für beste Zufriedenheit
 <ul>
-<li>**Wahre Handwerkskunst**: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.</li>
-<li>**Maßgefertigte Exzellenz**: Jede Tür wird nach Ihren Vorgaben hergestellt, um eine perfekte Passform und dauerhafte Funktionalität zu gewährleisten.</li>
-<li>**Bewährte Leistung**: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.</li>
+<li><strong>Wahre Handwerkskunst</strong>: Alle unsere Haustüren werden von Inotherm in sorgfältiger Handarbeit mit Schüko-Profilen gefertigt und bieten eine unvergleichliche Qualität und Liebe zum Detail.</li>
+<li><strong>Maßgefertigte Exzellenz</strong>: Jede Tür wird nach Ihren Vorgaben hergestellt, um eine perfekte Passform und dauerhafte Funktionalität zu gewährleisten.</li>
+<li><strong>Bewährte Leistung</strong>: Mit Tausenden von zufriedenen Kunden stehen wir zu unserer Erfolgsbilanz der Exzellenz.</li>
 </ul>
 {{< notice "tip" >}}
     
